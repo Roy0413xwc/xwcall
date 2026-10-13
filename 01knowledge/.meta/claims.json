@@ -1,0 +1,24 @@
+{
+  "schema": "claims-index",
+  "last_updated": "2026-10-13",
+  "claims": [
+    {
+      "claim_id": "REL-LOCALOPT-NONCONVEX-03",
+      "page_path": "01knowledge/UAV-ISAC 轨迹波束资源联合设计.md",
+      "statement_hash": "6b321958a280c10cb9ee083c968b5f362cff0198e4ff319cf320a23b2f5c9eb4",
+      "verification_state": "note_supported"
+    },
+    {
+      "claim_id": "REL-UAVMOBILITY-ENERGYGAP-02",
+      "page_path": "01knowledge/UAV 机动自由度与 ISAC 权衡边界.md",
+      "statement_hash": "30c881ce739b9229d351c5793972bae6f6b8ccb54128eb3d84ee6afdc74d6dff",
+      "verification_state": "interpretation"
+    },
+    {
+      "claim_id": "REL-UAVMOBILITY-ISACTRADEOFF-01",
+      "page_path": "01knowledge/UAV 机动自由度与 ISAC 权衡边界.md",
+      "statement_hash": "7f1a463eda074557fd525b100bc1186578bf1b7fe81bd4ef85e0c6541e609858",
+      "verification_state": "note_supported"
+    }
+  ]
+}

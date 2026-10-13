@@ -1,0 +1,15 @@
+{
+  "claim_id": "REL-UAVMOBILITY-ISACTRADEOFF-01",
+  "page_path": "01knowledge/UAV 机动自由度与 ISAC 权衡边界.md",
+  "section_heading": "3. 证据矩阵",
+  "normalized_statement": "在 UAV-ISAC 系统中，扩展 UAV 的机动自由度（从仅 3D 位置扩展到含 3D 朝向/姿态，或搭载 IRS/天线）可改善通信与感知性能的权衡边界。",
+  "evidence_role": "direct",
+  "verification_state": "note_supported",
+  "source_notes": [
+    "02vault/UAV/ISAC from the Sky UAV Trajectory Design.md",
+    "02vault/UAV/UAV-Enabled Passive 6D Movable Antenna for ISAC.md",
+    "02vault/UAV/Memory-Enhanced Dynamic Self-Attention Trajectory Planning.md",
+    "02vault/UAV/UAV-Assisted 5G Networks Mobility-Aware 3D Trajectory.md"
+  ],
+  "statement_hash": "7f1a463eda074557fd525b100bc1186578bf1b7fe81bd4ef85e0c6541e609858"
+}

@@ -1,0 +1,14 @@
+{
+  "claim_id": "REL-UAVMOBILITY-ENERGYGAP-02",
+  "page_path": "01knowledge/UAV 机动自由度与 ISAC 权衡边界.md",
+  "section_heading": "5. 边界条件",
+  "normalized_statement": "现有 UAV-ISAC 工作普遍未把能量/续航约束纳入机动性权衡，可能高估机动自由度带来的净收益。",
+  "evidence_role": "contextual",
+  "verification_state": "interpretation",
+  "source_notes": [
+    "02vault/UAV/ISAC from the Sky UAV Trajectory Design.md",
+    "02vault/UAV/ISAC-OTA UAV Swarm Dynamics.md",
+    "02vault/ISAC/ISAC for Low-Altitude Economy DRL.md"
+  ],
+  "statement_hash": "30c881ce739b9229d351c5793972bae6f6b8ccb54128eb3d84ee6afdc74d6dff"
+}

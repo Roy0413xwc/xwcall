@@ -8,27 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "afc0b0654695ab67",
+            "id": "97e72830738076d0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "202610121713.md",
-                "mode": "source",
-                "source": false
+                "file": "03fulltext/未分类/images/FHVKJ6WF/page-01.png"
               },
-              "icon": "lucide-file",
-              "title": "202610121713"
-            }
-          },
-          {
-            "id": "e86cb8516ef98032",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "icon": "lucide-image",
+              "title": "page-01"
             }
           }
         ]
@@ -88,12 +76,37 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
+          },
+          {
+            "id": "6bb6f0213dee633d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03fulltext/未分类/images/FHVKJ6WF/page-01.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "73800a04302e825f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 353.5
   },
   "right": {
     "id": "b576cc4288effc9a",
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202610121713.md",
+                "file": "Title.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202610121713.md",
+                "file": "Title.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -166,31 +179,6 @@
             }
           },
           {
-            "id": "6bb6f0213dee633d",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "202610121713.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "大纲"
-            }
-          },
-          {
-            "id": "73800a04302e825f",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
             "id": "dfc253ee911f7be4",
             "type": "leaf",
             "state": {
@@ -199,13 +187,58 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "ee1a6f2fa1b5c239",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "ef7ae125f28f4e1e",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "03fulltext/未分类/images/FHVKJ6WF/page-01.png"
+              },
+              "icon": "lucide-info",
+              "title": "笔记属性"
+            }
+          },
+          {
+            "id": "0251fe4bc68a7aff",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {
+                "tabWorkspace": {
+                  "version": 1,
+                  "openTabs": [
+                    {
+                      "tabId": "tab-1791860092309-pclhmzc",
+                      "conversationId": null,
+                      "draftModel": "openai-codex/hy4-preview",
+                      "providerId": "codex"
+                    }
+                  ],
+                  "activeTabId": "tab-1791860092309-pclhmzc"
+                }
+              },
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 447.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,32 +248,63 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false,
       "bases:新建数据库": false,
       "workspaces:管理工作区布局": false,
       "zk-prefixer:创建时间戳笔记": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
       "realclaudian:Open Claudian": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dfc253ee911f7be4",
+  "active": "7e2c233911d2c138",
   "lastOpenFiles": [
-    "00000test.md",
-    "202610121713.md",
-    "07_AI_Conversation",
-    "05_Thesis",
-    "04_Projects",
-    "03_Research_Ideas",
-    "01_Concepts（最重要）",
-    "00_Inbox",
-    "这是一个笔记，用来测试同步-DTHRQ5KY.md",
-    "Title.md",
-    "未命名.base",
-    "思维导图？.canvas",
-    "数据库吗这个是.base",
-    "欢迎.md",
-    "水导视频精华.md",
-    "2026-10-12.md"
+    "03fulltext/未分类/images/FHVKJ6WF/page-06.png",
+    "03fulltext/未分类/images/FHVKJ6WF/page-04.png",
+    "03fulltext/未分类/images/FHVKJ6WF/page-02.png",
+    "03fulltext/未分类/images/FHVKJ6WF/page-01.png",
+    "02vault/ISAC/ISAC Toward Dual-Functional Wireless Networks (Survey).md",
+    "02vault/UAV/UAV-Enabled Passive 6D Movable Antenna for ISAC.md",
+    "02vault/UAV/UAV-Assisted 5G Networks Mobility-Aware 3D Trajectory.md",
+    "02vault/UAV/Predictive Control Over Low-Altitude Wireless Networks.md",
+    "02vault/UAV/ISAC-OTA UAV Swarm Dynamics.md",
+    "02vault/UAV/Curriculum-Guided Heterogeneous Multi-Agent ISAC.md",
+    "02vault/ISAC/ISAC-Enabled Beam Tracking for U2U.md",
+    "02vault/ISAC/NOMA Empowered ISAC with RIS.md",
+    "02vault/ISAC/Resource Allocation Based on Optimal Transport ISAC Multi-UAV.md",
+    "02vault/ISAC/Optimal ISAC Beamforming Structure.md",
+    "02vault/信道估计/Diagonally Reconstructed Channel Estimation for MIMO-AFDM.md",
+    "02vault/信道估计/HMIMO Graph-Based Wavenumber-Domain Channel Estimation.md",
+    "02vault/未分类/Random Access Control in NB-IoT With Model-Based Reinforcement Learning.md",
+    "模板/论文精读模板.md",
+    "模板/知识库模板/综合模板.md",
+    "模板/知识库模板/争议模板.md",
+    "模板/知识库模板/关系模板.md",
+    "模板/知识库模板/概念模板.md",
+    "模板/知识库模板/方法模板.md",
+    "02vault/UAV/Ultra-Wideband Air-to-Ground Propagation Channel Characterization in an Open Area.md",
+    "02vault/信道估计/SSNet Channel Extrapolation for FAS.md",
+    "02vault/UAV/Real-Time UAV Path and Role-Coordinated Planning Method for Emergency Communications.md",
+    "02vault/未分类",
+    "03fulltext/未分类/FHVKJ6WF.md",
+    "03fulltext/未分类/images/FHVKJ6WF/page-15.png",
+    "03fulltext/未分类/images/FHVKJ6WF/page-14.png",
+    "03fulltext/未分类/images/FHVKJ6WF/page-13.png",
+    "03fulltext/未分类/images/FHVKJ6WF/page-12.png",
+    "03fulltext/未分类/images/FHVKJ6WF/page-11.png",
+    "02vault/UAV/Memory-Enhanced Dynamic Self-Attention Trajectory Planning.md",
+    "03fulltext/未分类/images/FHVKJ6WF/page-10.png",
+    "03fulltext/未分类/images/FHVKJ6WF/page-09.png",
+    "02vault/UAV/ISAC Enabled Anti-UAV.md",
+    "03fulltext/未分类/images/FHVKJ6WF",
+    "03fulltext/未分类/images",
+    "03fulltext/未分类",
+    "02vault/其他",
+    "02vault/信道估计",
+    "02vault/ISAC",
+    "03fulltext/其他",
+    "03fulltext/信道估计",
+    "03fulltext/ISAC",
+    "思维导图？.canvas"
   ]
 }

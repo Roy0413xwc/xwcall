@@ -1,0 +1,15 @@
+{
+  "claim_id": "REL-LOCALOPT-NONCONVEX-03",
+  "page_path": "01knowledge/UAV-ISAC 轨迹波束资源联合设计.md",
+  "section_heading": "4.2 非凸/NP-hard 问题的实用解法是分解与凸近似",
+  "normalized_statement": "面对 UAV-ISAC 联合优化的 NP-hard 特性，层次分解、交替优化与序列凸近似（SCA）是被反复验证有效的工程路径，但只保证局部最优。",
+  "evidence_role": "direct",
+  "verification_state": "note_supported",
+  "source_notes": [
+    "02vault/UAV/Real-Time UAV Path and Role-Coordinated Planning Method for Emergency Communications.md",
+    "02vault/ISAC/Optimal ISAC Beamforming Structure.md",
+    "02vault/ISAC/NOMA Empowered ISAC with RIS.md",
+    "02vault/UAV/UAV-Enabled Passive 6D Movable Antenna for ISAC.md"
+  ],
+  "statement_hash": "6b321958a280c10cb9ee083c968b5f362cff0198e4ff319cf320a23b2f5c9eb4"
+}
