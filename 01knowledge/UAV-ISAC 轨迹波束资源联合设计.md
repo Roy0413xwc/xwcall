@@ -1,3 +1,4 @@
+
 ---
 type: "knowledge-theme"
 title: "无人机通感一体化（UAV-ISAC）的轨迹、波束与资源联合设计"
@@ -33,7 +34,7 @@ related: []
 last_updated: "2026-10-13"
 evidence_status: "mixed"
 ---
-
+为什么是红的，是不是要修复一下
 # 无人机通感一体化（UAV-ISAC）的轨迹、波束与资源联合设计
 
 > [!summary] 30 秒综合判断

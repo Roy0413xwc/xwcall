@@ -111,3 +111,37 @@ last_updated: "2026-10-13"
 - Analytical Note：已按当前 `模板/论文精读模板.md` 建立 `02vault/未分类/Random Access Control in NB-IoT With Model-Based Reinforcement Learning.md`；结论引用核对至原 PDF 第 10、13 页。
 - Knowledge action：`NO_KNOWLEDGE_CHANGE`；本条目暂不改写既有跨论文知识页。
 - 校验：文献链接 PASS（36 notes、31 fulltexts、0 errors）；知识层 PASS（3 pages、0 errors、0 warnings）；环境 PASS（0 failures，MinerU 未配置警告保留）。
+
+## 2026-10-13（第八批：Zotero 本地 API 写入通道打通）
+
+- **关键突破**：确认 Zotero 10.0.6 本地 API 支持写入（需 `POST /api/local/authorize` 获 key，写请求须带 `Zotero-Server-ID` 与 `Zotero-API-Key`）。已获持久授权（remember=true）。
+- 建立完整挂载通道：`POST /items`（建 imported_file 子附件）→ `POST /items/<key>/file`（`If-None-Match: *` 授权上传）→ POST 原始字节到 `/api/local/uploads/<uploadKey>` → `POST /items/<key>/file`（`upload=` 注册）。
+- 挂载 4 篇此前已下载但滞留在暂存目录的 PDF：IVFQQXLZ、CPAWPDHD、SFHWJXB7、8A5WX5RQ。Zotero 有 PDF 条目由 35 增至 39，待补 PDF 由 29 降至 25。
+- 清理：删除探测接口时误建的重复条目 AA377372（与 IVFQQXLZ 同源），原条目未受影响。
+- 生成 4 篇 Fulltext 归档：`03fulltext/ISAC/IVFQQXLZ.md`、`03fulltext/ISAC/CPAWPDHD.md`、`03fulltext/UAV/SFHWJXB7.md`、`03fulltext/UAV/8A5WX5RQ.md`。
+- 生成 4 篇中文精读笔记（按 `模板/精读模板.md` 结构）：AFDM-ISAC 会议版、WNCS 通控协同设计、近场安全 UAV ISAC、协作 ISAC 低空经济。
+- 标签双向生成：Zotero 侧写入主题标签 + `已精读`/`精读笔记`（4 篇均 204 成功）；Obsidian 侧 frontmatter tags 同步。
+- 当前 Vault：34 notes / 35 fulltexts。
+
+## 2026-10-13（第八批：Zotero 本地 API 写入通道打通）
+
+- **关键突破**：确认 Zotero 10.0.6 本地 API 支持写入（需先 POST /api/local/authorize 获取 key；写请求须同时带 Zotero-Server-ID 与 Zotero-API-Key 头）。已取得持久授权（remember=true），后续批量操作无需重复授权。
+- 建立完整 PDF 挂载通道：POST /api/users/0/items（建 imported_file 子附件）→ POST /items/<key>/file（带 If-None-Match: * 授权上传）→ POST 原始字节到 /api/local/uploads/<uploadKey> → POST /items/<key>/file（带 upload= 注册）。
+- 挂载 4 篇此前已下载但滞留在暂存目录的 PDF：IVFQQXLZ、CPAWPDHD、SFHWJXB7、8A5WX5RQ。Zotero 有 PDF 条目由 35 增至 39，待补 PDF 由 29 降至 25。
+- 清理：删除探测接口时误建的重复条目 AA377372（与 IVFQQXLZ 同源），原条目与其附件未受影响。
+- 生成 4 篇 Fulltext 归档：03fulltext/ISAC/IVFQQXLZ.md、03fulltext/ISAC/CPAWPDHD.md、03fulltext/UAV/SFHWJXB7.md、03fulltext/UAV/8A5WX5RQ.md（均记录 pdf_key 与 source_sha256）。
+- 生成 4 篇中文精读笔记，按 模板/精读模板.md 的 13 节结构：AFDM-ISAC 会议版、WNCS 通控协同设计（GCA-DRL）、近场安全 UAV ISAC、协作 ISAC 低空经济。
+- 标签双向生成：Zotero 侧写入主题标签 + 已精读/精读笔记（4 篇均返回 204）；Obsidian 侧 frontmatter tags 同步写入。
+- 更新 02vault/_index/文献索引.md，追加 4 行索引。
+- 当前 Vault：34 notes / 35 fulltexts。校验：笔记与全文的 zotero_key、pdf_key、note_path、fulltext_path 四向一致。
+
+## 2026-10-13（第十二批：补齐有 PDF 论文的笔记）
+
+- 检查 Zotero 中有 PDF 但未生成笔记的论文，共 17 篇（含用户新加入库的 3 篇）。
+- 全部提取全文并归档至 `03fulltext/<collection>/<zotero_key>.md`，随后按模板生成 17 篇中文精读笔记：
+  - UAV 6 篇：雷达探测优化、UAV 部署与波束成形（VEC）、控制导向（3/6-DoF）、ISAC 协同探测（电子围栏）、低空双功能资源分配、按需混合感知
+  - ISAC 5 篇：SeCo4 通感算协同、GNN 波束成形、公平性资源分配、深度展开收发机、LLM 近场预测波束、STAR-IRS+SCMA（THz）
+  - 其他 6 篇：PASS 能效优化、多视角环境感知（遮挡）、WiFi 人体跟踪、URLLC 控制协同、动态环境资源分配、NB-IoT（系统原有，路径修正）
+- 修正问题：2 篇笔记的 fulltext 路径归类不一致已修正；1 篇系统原有笔记误置于「未分类」目录已归入「其他」并同步修正双向路径。
+- 知识层：主题页与综合页 evidence_count 与 source_notes 链接数对齐。
+- 最终：57 篇笔记 / 52 篇全文归档 / 3 个知识页 / 3 条 Claim，三层校验 PASS（0 errors, 0 warnings）。

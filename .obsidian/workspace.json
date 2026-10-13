@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0e2b01ba75ecf6c9",
+        "id": "4d936cab98ce4089",
         "type": "tabs",
         "children": [
           {
-            "id": "97e72830738076d0",
+            "id": "aa7ae90645b9a175",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "03fulltext/未分类/images/FHVKJ6WF/page-01.png"
+                "file": "02vault/UAV/Control-Based Beamforming and Trajectory for UAV-ISAC.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "page-01"
+              "icon": "lucide-file",
+              "title": "Control-Based Beamforming and Trajectory for UAV-ISAC"
             }
           }
         ]
@@ -53,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"tags\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03fulltext/未分类/images/FHVKJ6WF/page-01.png",
+                "file": "02vault/UAV/Memory-Enhanced Dynamic Self-Attention Trajectory Planning.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -122,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Title.md",
+                "file": "01knowledge/UAV 机动自由度与 ISAC 权衡边界.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Title.md",
+                "file": "01knowledge/UAV 机动自由度与 ISAC 权衡边界.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -204,7 +206,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03fulltext/未分类/images/FHVKJ6WF/page-01.png"
+                "file": "01knowledge/UAV 机动自由度与 ISAC 权衡边界.md"
               },
               "icon": "lucide-info",
               "title": "笔记属性"
@@ -221,9 +223,7 @@
                   "openTabs": [
                     {
                       "tabId": "tab-1791860092309-pclhmzc",
-                      "conversationId": null,
-                      "draftModel": "openai-codex/hy4-preview",
-                      "providerId": "codex"
+                      "conversationId": "conv-1791878892916-3fay4i6km"
                     }
                   ],
                   "activeTabId": "tab-1791860092309-pclhmzc"
@@ -234,7 +234,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -257,54 +257,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7e2c233911d2c138",
+  "active": "aa7ae90645b9a175",
   "lastOpenFiles": [
-    "03fulltext/未分类/images/FHVKJ6WF/page-06.png",
-    "03fulltext/未分类/images/FHVKJ6WF/page-04.png",
-    "03fulltext/未分类/images/FHVKJ6WF/page-02.png",
-    "03fulltext/未分类/images/FHVKJ6WF/page-01.png",
-    "02vault/ISAC/ISAC Toward Dual-Functional Wireless Networks (Survey).md",
-    "02vault/UAV/UAV-Enabled Passive 6D Movable Antenna for ISAC.md",
-    "02vault/UAV/UAV-Assisted 5G Networks Mobility-Aware 3D Trajectory.md",
-    "02vault/UAV/Predictive Control Over Low-Altitude Wireless Networks.md",
-    "02vault/UAV/ISAC-OTA UAV Swarm Dynamics.md",
     "02vault/UAV/Curriculum-Guided Heterogeneous Multi-Agent ISAC.md",
-    "02vault/ISAC/ISAC-Enabled Beam Tracking for U2U.md",
-    "02vault/ISAC/NOMA Empowered ISAC with RIS.md",
-    "02vault/ISAC/Resource Allocation Based on Optimal Transport ISAC Multi-UAV.md",
-    "02vault/ISAC/Optimal ISAC Beamforming Structure.md",
-    "02vault/信道估计/Diagonally Reconstructed Channel Estimation for MIMO-AFDM.md",
-    "02vault/信道估计/HMIMO Graph-Based Wavenumber-Domain Channel Estimation.md",
-    "02vault/未分类/Random Access Control in NB-IoT With Model-Based Reinforcement Learning.md",
-    "模板/论文精读模板.md",
-    "模板/知识库模板/综合模板.md",
-    "模板/知识库模板/争议模板.md",
-    "模板/知识库模板/关系模板.md",
-    "模板/知识库模板/概念模板.md",
-    "模板/知识库模板/方法模板.md",
-    "02vault/UAV/Ultra-Wideband Air-to-Ground Propagation Channel Characterization in an Open Area.md",
-    "02vault/信道估计/SSNet Channel Extrapolation for FAS.md",
-    "02vault/UAV/Real-Time UAV Path and Role-Coordinated Planning Method for Emergency Communications.md",
+    "02vault/UAV/Cooperative ISAC-Empowered Low-Altitude Economy.md",
+    "02vault/UAV/Control-Based Beamforming and Trajectory for UAV-ISAC.md",
+    "01knowledge/UAV 机动自由度与 ISAC 权衡边界.md",
+    "03fulltext/其他/images/FHVKJ6WF/page-15.png",
+    "03fulltext/其他/images/FHVKJ6WF/page-13.png",
+    "03fulltext/其他/images/FHVKJ6WF/page-14.png",
+    "03fulltext/其他/images/FHVKJ6WF/page-12.png",
+    "03fulltext/其他/images/FHVKJ6WF/page-11.png",
+    "03fulltext/其他/images/FHVKJ6WF/page-09.png",
+    "03fulltext/其他/images/FHVKJ6WF/page-10.png",
+    "03fulltext/其他/images/FHVKJ6WF/page-08.png",
+    "03fulltext/其他/images/FHVKJ6WF/page-05.png",
+    "03fulltext/其他/images/FHVKJ6WF/page-07.png",
+    "03fulltext/其他/images/FHVKJ6WF",
+    "03fulltext/其他/images",
+    "03fulltext/其他/FHVKJ6WF.md",
+    "02vault/其他/Random Access Control in NB-IoT With Model-Based Reinforcement Learning.md",
+    "02vault/其他/Learning to Optimize Resource Allocation in Dynamic Wireless.md",
+    "02vault/其他/URLLC Resource Allocation for Real-Time Wireless Control.md",
+    "02vault/其他/Passive Human Tracking With WiFi Point Clouds.md",
+    "02vault/其他/Environment Sensing with Occlusion Effect.md",
+    "02vault/ISAC/STAR-IRS SCMA ISAC Beamforming (THz).md",
+    "02vault/其他/PASS Joint Radiation Power Antenna Position Beamforming.md",
+    "02vault/ISAC/LLM in V2I Predictive Beamforming.md",
+    "02vault/ISAC/Deep Unfolding ISAC Transceiver Design.md",
+    "02vault/ISAC/Joint Target Assignment and Resource Allocation (Fairness).md",
+    "02vault/ISAC/Learning to Beamform for ISAC (GNN).md",
+    "02vault/ISAC/SeCo4 Co-Design of Sensing Communication and Computing.md",
+    "02vault/ISAC/_n6.md",
+    "02vault/UAV/Situation-Aware Hybrid Sensing for UAV-ISAC.md",
+    "02vault/UAV/Optimal Transport Framework for Low-Altitude ISAC.md",
+    "02vault/UAV/_n5.md",
+    "02vault/UAV/ISAC Enabled Cooperative Detection for UAV.md",
+    "02vault/UAV/_n4.md",
+    "02vault/UAV/_n3.md",
+    "02vault/UAV/Joint Beamforming and UAV Deployment for ISAC-VEC.md",
+    "02vault/UAV/_n2.md",
+    "未命名.base",
     "02vault/未分类",
-    "03fulltext/未分类/FHVKJ6WF.md",
-    "03fulltext/未分类/images/FHVKJ6WF/page-15.png",
-    "03fulltext/未分类/images/FHVKJ6WF/page-14.png",
-    "03fulltext/未分类/images/FHVKJ6WF/page-13.png",
-    "03fulltext/未分类/images/FHVKJ6WF/page-12.png",
-    "03fulltext/未分类/images/FHVKJ6WF/page-11.png",
-    "02vault/UAV/Memory-Enhanced Dynamic Self-Attention Trajectory Planning.md",
-    "03fulltext/未分类/images/FHVKJ6WF/page-10.png",
-    "03fulltext/未分类/images/FHVKJ6WF/page-09.png",
-    "02vault/UAV/ISAC Enabled Anti-UAV.md",
     "03fulltext/未分类/images/FHVKJ6WF",
     "03fulltext/未分类/images",
     "03fulltext/未分类",
     "02vault/其他",
     "02vault/信道估计",
     "02vault/ISAC",
-    "03fulltext/其他",
-    "03fulltext/信道估计",
-    "03fulltext/ISAC",
     "思维导图？.canvas"
   ]
 }

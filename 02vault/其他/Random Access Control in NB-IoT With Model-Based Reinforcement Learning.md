@@ -22,8 +22,8 @@ zotero_key: "FHVKJ6WF"
 pdf_key: "X9FJR67A"
 doi: "10.1109/JIOT.2024.3499854"
 collection: "未分类"
-note_path: "02vault/未分类/Random Access Control in NB-IoT With Model-Based Reinforcement Learning.md"
-fulltext_path: "03fulltext/未分类/FHVKJ6WF.md"
+note_path: "02vault/其他/Random Access Control in NB-IoT With Model-Based Reinforcement Learning.md"
+fulltext_path: "03fulltext/其他/FHVKJ6WF.md"
 ---
 
 # Random Access Control in NB-IoT With Model-Based Reinforcement Learning
@@ -36,7 +36,7 @@ fulltext_path: "03fulltext/未分类/FHVKJ6WF.md"
 | 年份 | 2025；DOI 注册于2024年 |
 | 来源 | IEEE Internet of Things Journal, 12(7), 8135–8149；精读依据为机构仓储作者稿，PDF共15页 |
 | 主题 | NB-IoT 随机接入与覆盖增强等级的在线联合配置 |
-| 链接 | [DOI](https://doi.org/10.1109/JIOT.2024.3499854) · [Zotero条目](zotero://select/library/items/FHVKJ6WF) · [原始PDF](zotero://open-pdf/library/items/X9FJR67A) · 全文 Markdown：[[03fulltext/未分类/FHVKJ6WF]] |
+| 链接 | [DOI](https://doi.org/10.1109/JIOT.2024.3499854) · [Zotero条目](zotero://select/library/items/FHVKJ6WF) · [原始PDF](zotero://open-pdf/library/items/X9FJR67A) · 全文 Markdown：[[03fulltext/其他/FHVKJ6WF]] |
 
 ## 一句话摘要
 
