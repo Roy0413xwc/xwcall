@@ -1,8 +1,6 @@
 ---
 title: "Integrated Sensing and Communications for Low-Altitude Economy: A Deep Reinforcement Learning Approach"
-aliases:
-  - DeepLSC
-  - Deep LAE-ISAC
+aiases:
 tags:
   - literature-note
   - reading-note
@@ -14,21 +12,19 @@ source: IEEE Transactions on Wireless Communications, 2025
 author: Xiaowen Ye, Yuyi Mao, Xianghao Yu, Shu Sun, Liqun Fu, Jie Xu
 year: 2025
 journal: IEEE Transactions on Wireless Communications
-
 theme: 面向低空经济的 ISAC 系统，用深度强化学习联合优化波束成形与无人机轨迹
 study_area: 通感一体化 / 低空经济 / 深度强化学习
 methodology: 建模为 episode task 型 MDP + 深度强化学习方案 DeepLSC
 core_variable: 给定时段内的期望通信和速率、感知平均 SNR、飞行任务与避撞约束
 key_finding: 把序贯决策问题转化为 episode task MDP，提出 DeepLSC 联合优化 GBS 波束成形与 UAV 轨迹
 relevance: 低空经济 + ISAC + DRL，与本 Vault 的 UAV-ISAC 方向高度对口
-
 type: literature-note
-zotero_key: "4ZKUQ3NN"
-pdf_key: "ZMNWZNSB"
-doi: "10.1109/twc.2025.3583950"
-collection: "ISAC"
-note_path: "02vault/ISAC/ISAC for Low-Altitude Economy DRL.md"
-fulltext_path: "03fulltext/ISAC/4ZKUQ3NN.md"
+zotero_key: 4ZKUQ3NN
+pdf_key: ZMNWZNSB
+doi: 10.1109/twc.2025.3583950
+collection: ISAC
+note_path: 02vault/ISAC/ISAC for Low-Altitude Economy DRL.md
+fulltext_path: 03fulltext/ISAC/4ZKUQ3NN.md
 status:
   - Reading
 rating: 五星

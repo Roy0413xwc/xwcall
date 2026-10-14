@@ -23,6 +23,11 @@ knowledge:
   - "[[UAV动力学建模]]"
 ---
 
+- **[《A Control-Based Design of Beamforming and Trajectory for UAV-Enabled ISAC System》](zotero://select/library/items/HWHQDBSP)**
+<span style="color: #E63946; font-weight: bold;">作者</span>: <span style="color: #1D3557;">Li, Zhang, Rong, Han</span>
+<span style="color: #FFC107; font-weight: bold;">发表年份</span>: <span style="color: #2A9D8F;">2026</span>
+<span style="color: #8E44AD; font-weight: bold;">期刊名称</span>: <span style="color: #264653;">IEEE Transactions on Wireless Communications</span>
+
 # A Control-Based Design of Beamforming and Trajectory for UAV-Enabled ISAC System
 
 ## 📌 Basic Information

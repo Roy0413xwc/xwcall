@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02vault/UAV/A_Control-Based_Design_of_Beamforming_and_Trajectory_for_UAV-Enabled_ISAC_System.md",
+                "file": "SCA与SDR优化方法基础_Obsidian笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A_Control-Based_Design_of_Beamforming_and_Trajectory_for_UAV-Enabled_ISAC_System"
+              "title": "SCA与SDR优化方法基础_Obsidian笔记"
             }
           },
           {
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02vault/UAV/A_Control-Based_Design_of_Beamforming_and_Trajectory_for_UAV-Enabled_ISAC_System.md",
+                "file": "SCA与SDR优化方法基础_Obsidian笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -139,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02vault/UAV/A_Control-Based_Design_of_Beamforming_and_Trajectory_for_UAV-Enabled_ISAC_System.md"
+                "file": "SCA与SDR优化方法基础_Obsidian笔记.md"
               },
               "icon": "lucide-info",
               "title": "笔记属性"
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02vault/UAV/A_Control-Based_Design_of_Beamforming_and_Trajectory_for_UAV-Enabled_ISAC_System.md",
+                "file": "SCA与SDR优化方法基础_Obsidian笔记.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02vault/UAV/A_Control-Based_Design_of_Beamforming_and_Trajectory_for_UAV-Enabled_ISAC_System.md",
+                "file": "SCA与SDR优化方法基础_Obsidian笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -293,18 +293,25 @@
   },
   "active": "dfc253ee911f7be4",
   "lastOpenFiles": [
-    "02vault/UAV/A_Control-Based_Design_of_Beamforming_and_Trajectory_for_UAV-Enabled_ISAC_System.md",
-    "Pasted image 20261014151640.png",
     "SCA与SDR优化方法基础]] [[UAV动力学建模.md",
+    "SCA与SDR优化方法基础_Obsidian笔记.md",
+    "Pasted image 20261014151640.png",
+    "Pasted image 20261014152424.png",
+    "日记/2026-10-12.md",
+    "日记/2026-10-13.md",
+    "02vault/ISAC/ISAC for Low-Altitude Economy DRL.md",
+    "02vault/ISAC/Energy-Efficient and Intelligent ISAC in V2X Networks.md",
+    "02vault/ISAC/Deep Unfolding ISAC Transceiver Design.md",
+    "02vault/ISAC/Communication-Control Codesign for Large-Scale Wireless Networked Control Systems.md",
+    "02vault/ISAC/Channel Knowledge Map Low-Altitude ISAC.md",
+    "02vault/UAV/A_Control-Based_Design_of_Beamforming_and_Trajectory_for_UAV-Enabled_ISAC_System.md",
     "01knowledge/02UAV/UAV动力学建模.md",
     "01knowledge/01数学理论/SCA与SDR优化方法基础.md",
     "01knowledge/UAV 机动自由度与 ISAC 权衡边界.md",
     "01knowledge/非凸优化问题如何转化为可以求解的凸优化问题.md",
-    "Pasted image 20261014152424.png",
     "01knowledge/02UAV",
     "01knowledge/01数学理论",
     "01knowledge/index.md",
-    "SCA与SDR优化方法基础_Obsidian笔记.md",
     "01knowledge/UAV-ISAC 轨迹波束资源联合设计.md",
     "01knowledge/UAV动力学.md",
     "01knowledge/UAV动力学建模_Obsidian笔记.md",
@@ -315,14 +322,7 @@
     "02vault/UAV/ISAC from the Sky UAV Trajectory Design.md",
     "01knowledge/UAV-ISAC 综合判断.md",
     "01knowledge/log.md",
-    "07_AI_Conversation/目录prompt.md",
-    "02vault/UAV/A Control-Based Design of Beamforming and Trajectory for UAV-Enabled ISAC System.md",
     "Pasted image 20261014121504.png",
-    "05_Thesis/ISAC-已读论文结构化提取.md",
-    "05_Thesis/ISAC-知识图谱.md",
-    "02vault/_index/字段补全检查.md",
-    "02vault/_index/研究主题索引.md",
-    "02vault/_index/研究方法索引.md",
     "03fulltext/其他/images/FHVKJ6WF/page-15.png",
     "03fulltext/其他/images/FHVKJ6WF/page-13.png",
     "03fulltext/其他/images/FHVKJ6WF/page-14.png",
