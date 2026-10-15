@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Research_Ideas/ai推荐开题报告.md",
+                "file": "03_Research_Ideas/ai推荐开题报告1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ai推荐开题报告"
+              "title": "ai推荐开题报告1"
+            }
+          },
+          {
+            "id": "b7875a6a7bea0b13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07_AI_Conversation/开题论文方向，直接和ai讨论.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "开题论文方向，直接和ai讨论"
             }
           }
         ],
@@ -97,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02vault/ISAC/Integrated Sensing and Communications for Low-Altitude Economy A Deep Reinforcement Learning Approach.md",
+                "file": "03_Research_Ideas/ai推荐开题报告1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -126,7 +140,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03_Research_Ideas/ai推荐开题报告.md"
+                "file": "03_Research_Ideas/ai推荐开题报告1.md"
               },
               "icon": "lucide-info",
               "title": "笔记属性"
@@ -138,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Research_Ideas/ai推荐开题报告.md",
+                "file": "03_Research_Ideas/ai推荐开题报告1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_Research_Ideas/ai推荐开题报告.md",
+                "file": "03_Research_Ideas/ai推荐开题报告1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -216,7 +230,7 @@
                     {
                       "tabId": "tab-1791860092309-pclhmzc",
                       "conversationId": null,
-                      "draftModel": "openai-codex/glm-5.3-flash",
+                      "draftModel": "openai-codex/qwen3.8-flash",
                       "providerId": "codex"
                     }
                   ],
@@ -270,20 +284,47 @@
       "zk-prefixer:创建时间戳笔记": false,
       "templater-obsidian:Templater": false,
       "realclaudian:Open Claudian": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-importer:导入笔记": false
     }
   },
   "active": "ef7ae125f28f4e1e",
   "lastOpenFiles": [
-    "07_AI_Conversation/codex目录prompt.md",
-    "03_Research_Ideas/ai推荐开题报告.md",
     "07_AI_Conversation/开题论文方向，直接和ai讨论.md",
+    "HTML/学习UAV动力学建模.md",
+    "OneNote/研2学习/九月北交就业宣讲会.md",
+    "OneNote/研2学习/GPT指导硕士论文.md",
+    "OneNote/研2学习/读文献方法.md",
+    "HTML/ISAC选题信息整理.md",
+    "03_Research_Ideas/ai推荐开题报告1.md",
+    "日记/2026-10-13.md",
+    "日记/2026-10-12.md",
+    "日记/2026-10-15.md",
+    "HTML",
+    "日记/6acf571a-8a5c-83ee-a22a-c11eddc2a889.html",
+    "6acf571a-8a5c-83ee-a22a-c11eddc2a889.html",
+    "模板/xwc精读模板.md",
+    "模板/开题速读文献模板.md",
+    "OneNote/研2学习/水导视频精华.md",
+    "OneNote/研2学习/研二组会.md",
+    "OneNote/水导视频精华/水导视频精华.md",
+    "论文图片附件/读文献方法 image.jpg",
+    "OneNote/研2学习",
+    "论文图片附件/水导视频精华 image 13.png",
+    "论文图片附件/水导视频精华 image 12.png",
+    "论文图片附件/水导视频精华 image 11.png",
+    "论文图片附件/水导视频精华 image 10.png",
+    "论文图片附件/水导视频精华 image 9.png",
+    "论文图片附件/水导视频精华 image 8.png",
+    "论文图片附件/水导视频精华 image 7.png",
+    "论文图片附件/水导视频精华 image 6.png",
+    "论文图片附件/水导视频精华 image 5.png",
+    "OneNote/水导视频精华",
+    "OneNote",
+    "07_AI_Conversation/codex目录prompt.md",
     "02vault/ISAC/Integrated Sensing and Communications for Low-Altitude Economy A Deep Reinforcement Learning Approach.md",
     "未命名.md",
-    "模板/开题速读文献模板.md",
-    "论文图片附件/Pasted image 20261014152424.png",
     "论文图片附件",
-    "论文图片附件/Pasted image 20261014175528.png",
     "01knowledge/02UAV/UAV-ISAC 轨迹波束资源联合设计.md",
     "01knowledge/index.md",
     "01knowledge/log.md",
@@ -291,36 +332,10 @@
     "02vault/ISAC/Joint Target Assignment and Resource Allocation (Fairness).md",
     "02vault/ISAC/ISAC Toward Dual-Functional Wireless Networks (Survey).md",
     "模板/论文精读模板.md",
-    "模板/xwc精读模板.md",
     "02vault/UAV/A_Control-Based_Design_of_Beamforming_and_Trajectory_for_UAV-Enabled_ISAC_System.md",
-    "file:D:/浏览器下载/开题速读文献模板.md",
-    "模板/开题速读模板.md",
-    "02vault/UAV/ISAC from the Sky UAV Trajectory Design.md",
-    "03fulltext/ISAC/4ZKUQ3NN.md",
-    "02vault/ISAC/Energy-Efficient and Intelligent ISAC in V2X Networks.md",
-    "02vault/ISAC/Deep Unfolding ISAC Transceiver Design.md",
-    "02vault/ISAC/Communication-Control Codesign for Large-Scale Wireless Networked Control Systems.md",
-    "02vault/ISAC/Channel Knowledge Map Low-Altitude ISAC.md",
-    "02vault/ISAC/AFDM-ISAC Angle-Delay-Doppler Estimation.md",
-    "论文图片附件/Pasted image 20261014151640.png",
-    "SCA与SDR优化方法基础_Obsidian笔记.md",
-    "SCA与SDR优化方法基础]] [[UAV动力学建模.md",
     "01knowledge/02UAV",
     "01knowledge/01数学理论",
-    "Pasted image 20261014121504.png",
-    "03fulltext/其他/images/FHVKJ6WF/page-15.png",
-    "03fulltext/其他/images/FHVKJ6WF/page-13.png",
-    "03fulltext/其他/images/FHVKJ6WF/page-14.png",
-    "03fulltext/其他/images/FHVKJ6WF/page-12.png",
-    "03fulltext/其他/images/FHVKJ6WF/page-11.png",
-    "03fulltext/其他/images/FHVKJ6WF/page-09.png",
     "03fulltext/其他/images/FHVKJ6WF",
-    "03fulltext/其他/images",
-    "未命名.base",
-    "02vault/未分类",
-    "03fulltext/未分类/images/FHVKJ6WF",
-    "03fulltext/未分类/images",
-    "03fulltext/未分类",
     "思维导图？.canvas"
   ]
 }

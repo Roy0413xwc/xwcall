@@ -358,7 +358,7 @@
   "settingsProvider": "claude",
   "lastSelectedChatModel": {
     "providerId": "codex",
-    "model": "openai-codex/glm-5.3-flash"
+    "model": "openai-codex/qwen3.8-flash"
   },
   "savedProviderModel": {},
   "savedProviderEffort": {

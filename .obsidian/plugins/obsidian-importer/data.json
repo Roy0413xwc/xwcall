@@ -1,0 +1,36 @@
+{
+  "secrets": {},
+  "outputLocations": {},
+  "outputSettings": {
+    "onenote-file": {
+      "folder": "OneNote",
+      "attachments": {
+        "mode": "folder",
+        "path": "论文图片附件"
+      },
+      "duplicates": "update",
+      "saveSourceId": true,
+      "idProperty": "onenote-id",
+      "template": "",
+      "titleTemplate": "{{title}}"
+    },
+    "html": {
+      "folder": "HTML",
+      "attachments": {
+        "mode": "vault",
+        "path": ""
+      },
+      "duplicates": "update",
+      "saveSourceId": true,
+      "idProperty": "html-source",
+      "template": "",
+      "titleTemplate": "{{title}}"
+    }
+  },
+  "onenoteAttachments": {},
+  "sourceFolders": {
+    "onenote-file": "F:",
+    "html": "F:\\XWCos\\zotero\\storage\\KX94NE4L"
+  },
+  "lastSourceFolder": "F:\\XWCos\\zotero\\storage\\KX94NE4L"
+}
