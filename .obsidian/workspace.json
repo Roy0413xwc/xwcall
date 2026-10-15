@@ -215,12 +215,8 @@
                   "openTabs": [
                     {
                       "tabId": "tab-1791860092309-pclhmzc",
-                      "conversationId": "conv-1791911585753-irqajsn95"
-                    },
-                    {
-                      "tabId": "tab-1791911575629-6fvngdn",
                       "conversationId": null,
-                      "draftModel": "openai-codex/hy4-preview",
+                      "draftModel": "openai-codex/glm-5.3-flash",
                       "providerId": "codex"
                     }
                   ],
@@ -254,8 +250,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "horizontal",
@@ -278,7 +273,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dfc253ee911f7be4",
+  "active": "ef7ae125f28f4e1e",
   "lastOpenFiles": [
     "07_AI_Conversation/codex目录prompt.md",
     "03_Research_Ideas/ai推荐开题报告.md",
