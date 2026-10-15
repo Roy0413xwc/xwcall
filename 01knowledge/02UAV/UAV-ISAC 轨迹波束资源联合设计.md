@@ -18,7 +18,7 @@ source_notes:
   - "[[02vault/UAV/Ultra-Wideband Air-to-Ground Propagation Channel Characterization in an Open Area|UWB 空地信道实测]]"
   - "[[02vault/ISAC/Optimal ISAC Beamforming Structure|ISAC 波束成形最优结构]]"
   - "[[02vault/ISAC/Energy-Efficient and Intelligent ISAC in V2X Networks|SNN-DRL ISAC V2X]]"
-  - "[[02vault/ISAC/ISAC for Low-Altitude Economy DRL|DeepLSC 低空经济]]"
+  - "[[Integrated Sensing and Communications for Low-Altitude Economy A Deep Reinforcement Learning Approach|DeepLSC 低空经济]]"
   - "[[02vault/ISAC/NOMA Empowered ISAC with RIS|NOMA-ISAC RIS]]"
   - "[[02vault/ISAC/Resource Allocation Based on Optimal Transport ISAC Multi-UAV|AIBOT 资源分配]]"
   - "[[02vault/ISAC/AFDM-ISAC Angle-Delay-Doppler Estimation|AFDM-ISAC 估计]]"
@@ -81,7 +81,7 @@ evidence_status: "mixed"
 
 **第二，UAV 的机动性是被普遍利用的新增自由度，但其刻画深度不一。** 从早期的 3D 轨迹优化（[[02vault/UAV/UAV-Assisted 5G Networks Mobility-Aware 3D Trajectory|UAV 5G 移动感知]]），到把朝向也纳入优化的六维可动天线（[[02vault/UAV/UAV-Enabled Passive 6D Movable Antenna for ISAC|UAV 6DMA ISAC]]），UAV 的可控维度在扩展。值得注意的是，多数工作只优化位置，把「朝向/姿态」作为优化变量的工作仍属少数。
 
-**第三，求解路径已从纯优化扩展到学习，但各有代价。** 优化类方法（SCA、交替优化、MPC）能保证局部最优且有收敛性分析，但难以实时（如 [[02vault/UAV/Real-Time UAV Path and Role-Coordinated Planning Method for Emergency Communications|无人机应急通信层次最优控制]] 需层次分解）；学习类方法（[[02vault/ISAC/ISAC for Low-Altitude Economy DRL|DeepLSC]]、[[02vault/UAV/Curriculum-Guided Heterogeneous Multi-Agent ISAC|C-HAPPO]]）可应对时变与高维，但缺少最优性保证且训练成本高。二者尚未出现压倒性的统一方案。
+**第三，求解路径已从纯优化扩展到学习，但各有代价。** 优化类方法（SCA、交替优化、MPC）能保证局部最优且有收敛性分析，但难以实时（如 [[02vault/UAV/Real-Time UAV Path and Role-Coordinated Planning Method for Emergency Communications|无人机应急通信层次最优控制]] 需层次分解）；学习类方法（[[Integrated Sensing and Communications for Low-Altitude Economy A Deep Reinforcement Learning Approach|DeepLSC]]、[[02vault/UAV/Curriculum-Guided Heterogeneous Multi-Agent ISAC|C-HAPPO]]）可应对时变与高维，但缺少最优性保证且训练成本高。二者尚未出现压倒性的统一方案。
 
 **第四，感知指标的选取反映问题层次：CRB 用于静态估计，PCRB 用于动态跟踪。** [[02vault/UAV/Curriculum-Guided Heterogeneous Multi-Agent ISAC|C-HAPPO]] 明确采用 PCRB 而非 CRB，因为跟踪场景需利用目标运动模型与先验。这是一个值得注意的方法论区分。
 
@@ -94,7 +94,7 @@ evidence_status: "mixed"
 | 轨迹—波束联合优化的可行性 | 可行且有效，但多为局部最优 | direct | 低空、单/多 UAV | note_supported | [[02vault/UAV/ISAC from the Sky UAV Trajectory Design\|ISAC from the Sky]] |
 | 波束成形的最优结构 | 存在可降维的结构性结论（Ns=3M 足够） | mechanism | 多用户多目标、单站 | note_supported | [[02vault/ISAC/Optimal ISAC Beamforming Structure\|波束最优结构]] |
 | UAV 机动性作为自由度 | 位置已普遍利用；朝向/6D 仍属前沿 | direct | UAV 载 IRS/天线 | note_supported | [[02vault/UAV/UAV-Enabled Passive 6D Movable Antenna for ISAC\|6DMA]] |
-| 学习类方法的适用性 | 可处理时变与高维，代价是无最优性保证 | direct | 低空经济、多智能体 | note_supported | [[02vault/ISAC/ISAC for Low-Altitude Economy DRL\|DeepLSC]]、[[02vault/UAV/Curriculum-Guided Heterogeneous Multi-Agent ISAC\|C-HAPPO]] |
+| 学习类方法的适用性 | 可处理时变与高维，代价是无最优性保证 | direct | 低空经济、多智能体 | note_supported | [[Integrated Sensing and Communications for Low-Altitude Economy A Deep Reinforcement Learning Approach\|DeepLSC]]、[[02vault/UAV/Curriculum-Guided Heterogeneous Multi-Agent ISAC\|C-HAPPO]] |
 | 频谱受限下的机群控制 | OTA 空中计算可绕开逐机带宽分配 | mechanism | 大规模 UAV 群 | note_supported | [[02vault/UAV/ISAC-OTA UAV Swarm Dynamics\|ISAC-OTA]] |
 | 信道先验用于网络规划 | CKM 可把在线优化转为离线规划 | contextual | 低空走廊 | note_supported | [[02vault/ISAC/Channel Knowledge Map Low-Altitude ISAC\|CKM 规划]] |
 | 实测信道依据 | 空地 UWB 信道有实测数据与解析路径损耗模型 | contextual | 开阔场地、3.1–4.8 GHz | note_supported | [[02vault/UAV/Ultra-Wideband Air-to-Ground Propagation Channel Characterization in an Open Area\|UWB 实测]] |
@@ -137,7 +137,7 @@ evidence_status: "mixed"
 
 **证据基础：**
 
-- [[02vault/ISAC/ISAC for Low-Altitude Economy DRL|DeepLSC]] — 把带飞行任务的问题建模为 episode task MDP
+- [[Integrated Sensing and Communications for Low-Altitude Economy A Deep Reinforcement Learning Approach|DeepLSC]] — 把带飞行任务的问题建模为 episode task MDP
 - [[02vault/UAV/Curriculum-Guided Heterogeneous Multi-Agent ISAC|C-HAPPO]] — 异构多智能体 + 课程学习 + 降维
 - [[02vault/ISAC/Energy-Efficient and Intelligent ISAC in V2X Networks|SNN-DRL]] — 用 SNN 降低 DRL 能耗
 
@@ -156,7 +156,7 @@ evidence_status: "mixed"
 ### 场景类型
 
 - **应急通信**强调时限与覆盖公平性（max-min rate），见 [[02vault/UAV/Real-Time UAV Path and Role-Coordinated Planning Method for Emergency Communications|层次最优控制]]、[[02vault/UAV/UAV-Assisted 5G Networks Mobility-Aware 3D Trajectory|UAV 5G 移动感知]]。
-- **低空经济**强调服务与监管并存（服务授权 UAV、监视非授权目标），见 [[02vault/ISAC/ISAC for Low-Altitude Economy DRL|DeepLSC]]。
+- **低空经济**强调服务与监管并存（服务授权 UAV、监视非授权目标），见 [[Integrated Sensing and Communications for Low-Altitude Economy A Deep Reinforcement Learning Approach|DeepLSC]]。
 - **时延敏感控制**强调 FBL 可靠性与控制闭环耦合，见 [[02vault/UAV/Predictive Control Over Low-Altitude Wireless Networks|低空预测控制]]。
 
 ### 指标定义
@@ -190,7 +190,7 @@ evidence_status: "mixed"
 
 - SCA（序列凸近似）：[[02vault/ISAC/Optimal ISAC Beamforming Structure|波束最优结构]]、[[02vault/UAV/UAV-Assisted 5G Networks Mobility-Aware 3D Trajectory|UAV 5G 移动感知]]
 - 层次/双层 MPC：[[02vault/UAV/Real-Time UAV Path and Role-Coordinated Planning Method for Emergency Communications|层次最优控制]]
-- DRL / 异构 MARL：[[02vault/ISAC/ISAC for Low-Altitude Economy DRL|DeepLSC]]、[[02vault/UAV/Curriculum-Guided Heterogeneous Multi-Agent ISAC|C-HAPPO]]
+- DRL / 异构 MARL：[[Integrated Sensing and Communications for Low-Altitude Economy A Deep Reinforcement Learning Approach|DeepLSC]]、[[02vault/UAV/Curriculum-Guided Heterogeneous Multi-Agent ISAC|C-HAPPO]]
 - 张量 CP 分解：[[02vault/ISAC/AFDM-ISAC Angle-Delay-Doppler Estimation|AFDM-ISAC 估计]]
 - 最优传输理论：[[02vault/ISAC/Resource Allocation Based on Optimal Transport ISAC Multi-UAV|AIBOT]]
 - OTA 空中计算：[[02vault/UAV/ISAC-OTA UAV Swarm Dynamics|ISAC-OTA]]

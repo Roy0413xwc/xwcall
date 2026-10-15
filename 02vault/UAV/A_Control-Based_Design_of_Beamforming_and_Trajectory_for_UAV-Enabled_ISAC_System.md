@@ -1,11 +1,11 @@
 ---
+title: A Control-Based Design of Beamforming and Trajectory for UAV-Enabled ISAC System
+journal: IEEE Transactions on Wireless Communications
 authors:
   - Bin Li
   - Hongyun Zhang
   - Yue Rong
   - Zhu Han
-journal: IEEE Transactions on Wireless Communications
-status: Reading
 tags:
   - ISAC
   - UAV
@@ -16,7 +16,6 @@ tags:
   - beamforming
   - control-parametrization
   - UAV-enabled-ISAC-system
-title: A Control-Based Design of Beamforming and Trajectory for UAV-Enabled ISAC System
 year: 2026
 knowledge:
   - "[[SCA与SDR优化方法基础]]"

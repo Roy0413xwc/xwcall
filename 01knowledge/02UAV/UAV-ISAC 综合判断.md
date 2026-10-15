@@ -1,10 +1,10 @@
 ---
-type: "knowledge-synthesis"
-title: "UAV-ISAC 联合设计的求解路径与性能边界：基于 22 篇笔记的跨论文综合"
+type: knowledge-synthesis
+title: UAV-ISAC 联合设计的求解路径与性能边界：基于 22 篇笔记的跨论文综合
 aliases:
   - UAV-ISAC 综合
-status: "developing"
-agreement: "mixed"
+status: developing
+agreement: mixed
 evidence_count: 22
 source_notes:
   - "[[02vault/UAV/ISAC from the Sky UAV Trajectory Design|ISAC from the Sky]]"
@@ -18,7 +18,7 @@ source_notes:
   - "[[02vault/UAV/Predictive Control Over Low-Altitude Wireless Networks|低空预测控制]]"
   - "[[02vault/UAV/Ultra-Wideband Air-to-Ground Propagation Channel Characterization in an Open Area|UWB 空地信道实测]]"
   - "[[02vault/ISAC/Optimal ISAC Beamforming Structure|ISAC 波束成形最优结构]]"
-  - "[[02vault/ISAC/ISAC for Low-Altitude Economy DRL|DeepLSC 低空经济]]"
+  - "[[Integrated Sensing and Communications for Low-Altitude Economy A Deep Reinforcement Learning Approach|DeepLSC 低空经济]]"
   - "[[02vault/ISAC/Multi-UAV ISAC Dual-Objective Optimization|双目标 ISAC]]"
   - "[[02vault/ISAC/Resource Allocation Based on Optimal Transport ISAC Multi-UAV|AIBOT 资源分配]]"
   - "[[02vault/ISAC/Channel Knowledge Map Low-Altitude ISAC|CKM 低空规划]]"
@@ -30,10 +30,10 @@ source_notes:
   - "[[02vault/信道估计/HMIMO Graph-Based Wavenumber-Domain Channel Estimation|HMIMO 信道估计]]"
   - "[[02vault/信道估计/Under-Determined DOA Estimation|欠定 DOA]]"
 related:
-  - "[[01knowledge/UAV-ISAC 轨迹波束资源联合设计|UAV-ISAC 主题页]]"
-  - "[[01knowledge/UAV 机动自由度与 ISAC 权衡边界|机动自由度关系页]]"
-last_updated: "2026-10-13"
-evidence_status: "note_only"
+  - "[[UAV-ISAC 轨迹波束资源联合设计|UAV-ISAC 主题页]]"
+  - "[[UAV 机动自由度与 ISAC 权衡边界|机动自由度关系页]]"
+last_updated: 2026-10-13
+evidence_status: note_only
 ---
 
 # UAV-ISAC 联合设计的求解路径与性能边界
@@ -69,7 +69,7 @@ evidence_status: "note_only"
 
 | 维度 | 优化分解类 | 学习近似类 |
 |---|---|---|
-| 代表 | [[02vault/UAV/Real-Time UAV Path and Role-Coordinated Planning Method for Emergency Communications\|层次 MPC]]、[[02vault/ISAC/Optimal ISAC Beamforming Structure\|SCA 结构]] | [[02vault/ISAC/ISAC for Low-Altitude Economy DRL\|DeepLSC]]、[[02vault/UAV/Curriculum-Guided Heterogeneous Multi-Agent ISAC\|C-HAPPO]] |
+| 代表 | [[02vault/UAV/Real-Time UAV Path and Role-Coordinated Planning Method for Emergency Communications\|层次 MPC]]、[[02vault/ISAC/Optimal ISAC Beamforming Structure\|SCA 结构]] | [[Integrated Sensing and Communications for Low-Altitude Economy A Deep Reinforcement Learning Approach\|DeepLSC]]、[[02vault/UAV/Curriculum-Guided Heterogeneous Multi-Agent ISAC\|C-HAPPO]] |
 | 优势 | 有收敛性分析、可得结构性洞察（如 Ns=3M） | 处理时变、高维、多智能体 |
 | 代价 | 仅局部最优；实时性差 | 无最优性保证；训练成本高；sim-to-real 未解决 |
 
@@ -88,7 +88,7 @@ evidence_status: "note_only"
 
 ### 机制一：可行域扩大 ⇒ 权衡边界弱改善
 
-扩展 UAV 机动自由度（位置 → 位置+朝向 → 载 IRS）扩大可行域，理论上使 Pareto 前沿不劣化。详见 [[01knowledge/UAV 机动自由度与 ISAC 权衡边界|机动自由度关系页]]。
+扩展 UAV 机动自由度（位置 → 位置+朝向 → 载 IRS）扩大可行域，理论上使 Pareto 前沿不劣化。详见 [[UAV 机动自由度与 ISAC 权衡边界|机动自由度关系页]]。
 
 **条件：** 需算法能有效利用新增自由度；若求解器只得局部最优，理论改善未必兑现。
 

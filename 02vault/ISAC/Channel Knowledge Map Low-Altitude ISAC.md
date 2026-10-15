@@ -316,7 +316,7 @@ IEEE Wireless Communications Letters｜DOI: 10.1109/lwc.2025.3642429
 相关论文：
 
 - [[02vault/UAV/Ultra-Wideband Air-to-Ground Propagation Channel Characterization in an Open Area|UWB 空地信道实测]] — 提供 UAV 空地信道实测依据，可作为 CKM 构建的数据来源
-- [[02vault/ISAC/ISAC for Low-Altitude Economy DRL|DeepLSC 低空经济]] — 同属低空 ISAC，该文做实时 DRL 优化，本文做离线网络规划
+- [[Integrated Sensing and Communications for Low-Altitude Economy A Deep Reinforcement Learning Approach|DeepLSC 低空经济]] — 同属低空 ISAC，该文做实时 DRL 优化，本文做离线网络规划
 
 ---
 

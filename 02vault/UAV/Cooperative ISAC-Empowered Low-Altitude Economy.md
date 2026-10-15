@@ -315,7 +315,7 @@ IEEE Transactions on Wireless Communications｜DOI: 10.1109/TWC.2025.3542399
 
 和我的研究/项目关系：
 
-- 与本 Vault 的低空经济主线直接相关，可与 [[02vault/ISAC/ISAC for Low-Altitude Economy DRL|DeepLSC 低空经济]] 对照：该文用 DRL 做服务与监管并存的资源分配，本文做底层协作感知参数估计，二者是同一场景的不同层次。
+- 与本 Vault 的低空经济主线直接相关，可与 [[Integrated Sensing and Communications for Low-Altitude Economy A Deep Reinforcement Learning Approach|DeepLSC 低空经济]] 对照：该文用 DRL 做服务与监管并存的资源分配，本文做底层协作感知参数估计，二者是同一场景的不同层次。
 - 与 [[02vault/UAV/Ultra-Wideband Air-to-Ground Propagation Channel Characterization in an Open Area|UWB 空地信道实测]] 互补：本文全仿真，该文提供实测信道依据。
 - 张量方法可与 [[02vault/ISAC/AFDM-ISAC Angle-Delay-Doppler Estimation|AFDM-ISAC 估计]] 对照：该文也用张量 CP 分解做角度-时延-多普勒估计，可比较 Vandermonde 结构的利用方式。
 
@@ -338,7 +338,7 @@ IEEE Transactions on Wireless Communications｜DOI: 10.1109/TWC.2025.3542399
 
 相关论文：
 
-- [[02vault/ISAC/ISAC for Low-Altitude Economy DRL|DeepLSC 低空经济]] — 同为低空经济，该文用 DRL 做资源分配，本文做协作感知
+- [[Integrated Sensing and Communications for Low-Altitude Economy A Deep Reinforcement Learning Approach|DeepLSC 低空经济]] — 同为低空经济，该文用 DRL 做资源分配，本文做协作感知
 - [[02vault/ISAC/AFDM-ISAC Angle-Delay-Doppler Estimation|AFDM-ISAC 估计]] — 同用张量 CP 分解做多维参数估计，可对照 Vandermonde 结构利用
 - [[02vault/UAV/Ultra-Wideband Air-to-Ground Propagation Channel Characterization in an Open Area|UWB 空地信道实测]] — 提供实测空地信道依据，补本文仿真之不足
 - [[02vault/ISAC/Channel Knowledge Map Low-Altitude ISAC|CKM 低空规划]] — 同为低空感知/规划，该文用信道知识图谱

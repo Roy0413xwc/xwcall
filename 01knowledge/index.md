@@ -19,7 +19,7 @@ last_updated: "2026-10-13"
 ## 知识页
 
 ### 主题（knowledge-theme）
-- [[01knowledge/UAV-ISAC 轨迹波束资源联合设计|UAV-ISAC 轨迹/波束/资源联合设计]] — 22 篇来源，status: developing
+- [[UAV-ISAC 轨迹波束资源联合设计|UAV-ISAC 轨迹/波束/资源联合设计]] — 22 篇来源，status: developing
 
 ### 概念（knowledge-concept）
 - 暂无
@@ -28,13 +28,13 @@ last_updated: "2026-10-13"
 - 暂无
 
 ### 关系（knowledge-relation）
-- [[01knowledge/UAV 机动自由度与 ISAC 权衡边界|UAV 机动自由度 → ISAC 权衡边界]] — 5 篇来源，agreement: mixed
+- [[UAV 机动自由度与 ISAC 权衡边界|UAV 机动自由度 → ISAC 权衡边界]] — 5 篇来源，agreement: mixed
 
 ### 争议（knowledge-controversy）
 - 暂无（优化类 vs 学习类之争记录于综合页「未决问题」）
 
 ### 综合（knowledge-synthesis）
-- [[01knowledge/UAV-ISAC 综合判断|UAV-ISAC 求解路径与性能边界]] — 22 篇来源，agreement: mixed
+- [[UAV-ISAC 综合判断|UAV-ISAC 求解路径与性能边界]] — 22 篇来源，agreement: mixed
 
 ## 使用约定
 

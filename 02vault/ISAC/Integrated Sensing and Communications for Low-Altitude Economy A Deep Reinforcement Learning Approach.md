@@ -1,34 +1,30 @@
 ---
 title: "Integrated Sensing and Communications for Low-Altitude Economy: A Deep Reinforcement Learning Approach"
-aiases:
 tags:
-  - literature-note
-  - reading-note
+  - joint_beamforming_and_trajector_design
+  - Low-altitude_economy
   - ISAC
   - UAV
   - DRL
-created: 2026-10-13
-source: IEEE Transactions on Wireless Communications, 2025
 author: Xiaowen Ye, Yuyi Mao, Xianghao Yu, Shu Sun, Liqun Fu, Jie Xu
 year: 2025
 journal: IEEE Transactions on Wireless Communications
 theme: 面向低空经济的 ISAC 系统，用深度强化学习联合优化波束成形与无人机轨迹
-study_area: 通感一体化 / 低空经济 / 深度强化学习
 methodology: 建模为 episode task 型 MDP + 深度强化学习方案 DeepLSC
 core_variable: 给定时段内的期望通信和速率、感知平均 SNR、飞行任务与避撞约束
 key_finding: 把序贯决策问题转化为 episode task MDP，提出 DeepLSC 联合优化 GBS 波束成形与 UAV 轨迹
 relevance: 低空经济 + ISAC + DRL，与本 Vault 的 UAV-ISAC 方向高度对口
-type: literature-note
 zotero_key: 4ZKUQ3NN
 pdf_key: ZMNWZNSB
 doi: 10.1109/twc.2025.3583950
 collection: ISAC
 note_path: 02vault/ISAC/ISAC for Low-Altitude Economy DRL.md
 fulltext_path: 03fulltext/ISAC/4ZKUQ3NN.md
-status:
-  - Reading
-rating: 五星
 ---
+- **[《Integrated Sensing and Communications for Low-Altitude Economy A Deep Reinforcement Learning Approach》](zotero://select/library/items/4ZKUQ3NN)**
+<span style="color: #E63946; font-weight: bold;">作者</span>: <span style="color: #1D3557;">Ye, Mao, Yu, Sun, Fu, Xu</span>
+<span style="color: #FFC107; font-weight: bold;">发表年份</span>: <span style="color: #2A9D8F;">2025</span>
+<span style="color: #8E44AD; font-weight: bold;">期刊名称</span>: <span style="color: #264653;">IEEE TRANSACTIONS ON WIRELESS COMMUNICATIONS</span>
 
 # Integrated Sensing and Communications for Low-Altitude Economy: A Deep Reinforcement Learning Approach
 
@@ -60,7 +56,7 @@ IEEE Transactions on Wireless Communications｜DOI: 10.1109/twc.2025.3583950
 
 # 1. Abstract Summary（一句话总结）
 
-> 该文研究面向低空经济（LAE）的 ISAC 系统：地面基站为授权无人机提供通信与导航服务，同时感知低空空域监视非授权移动目标；把该序贯决策问题转化为 episode task 型马尔可夫决策过程，并提出深度强化学习方案 DeepLSC，联合优化 GBS 波束成形与无人机轨迹，以最大化给定时段内的期望通信和速率。
+> 该文研究面向低空经济（LAE）的 ISAC 系统：地面基站为授权无人机提供通信与导航服务，同时感知低空空域监视==非授权移动目标==；把该序贯决策问题转化为 episode task 型马尔可夫决策过程，并提出深度强化学习方案 DeepLSC，联合优化 GBS 波束成形与无人机轨迹，以最大化给定时段内的期望通信和速率。
 
 ---
 
@@ -91,7 +87,7 @@ IEEE Transactions on Wireless Communications｜DOI: 10.1109/twc.2025.3583950
 
 这篇论文试图解决：
 
-> 在低空经济场景中，如何联合优化地面基站波束成形与无人机轨迹，在感知 SNR、飞行任务、避撞与发射功率约束下最大化给定时段内的期望通信和速率？
+> 在低空经济场景中，如何联合优化地面基站==波束成形与无人机轨迹，在感知 SNR、飞行任务、避撞与发射功率约束==下最大化给定时段内的期望通信和速率？
 
 核心问题：
 
@@ -146,7 +142,7 @@ IEEE Transactions on Wireless Communications｜DOI: 10.1109/twc.2025.3583950
 - 马尔可夫决策过程（MDP）建模，具体为 episode task 形式
 - 深度强化学习（DRL）
 - 波束成形与 UAV 轨迹联合优化
-
+![[Pasted image 20261014175528.png|700]]
 ## Key Steps
 
 1. 建立 LAE-ISAC 系统模型：GBS 同时服务授权 UAV 并监视非授权目标。
@@ -237,7 +233,7 @@ IEEE Transactions on Wireless Communications｜DOI: 10.1109/twc.2025.3583950
 
 作者认为：
 
-- 「给定飞行任务」使决策有明确终止，构成 episode task——这一结构性洞察是套用 DRL 的关键。
+- ==「给定飞行任务」使决策有明确终止==，构成 episode task——这一结构性洞察是套用 DRL 的关键。
 - 把通信服务与空域监视统一在同一 ISAC 框架下，是低空经济场景的实质需求。
 
 ## My Evaluation
@@ -272,7 +268,7 @@ IEEE Transactions on Wireless Communications｜DOI: 10.1109/twc.2025.3583950
 未来可能改进：
 
 - 扩展到多 UAV、多 GBS 协同场景。
-- 考虑 UAV 能耗与续航约束。
+- ==考虑 UAV 能耗与续航约束==。
 - 在真实低空场景做实测验证。
 
 ---

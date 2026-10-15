@@ -1,13 +1,13 @@
 ---
-type: "knowledge-relation"
-title: "UAV 机动自由度扩展 → ISAC 通信-感知权衡边界改善"
+type: knowledge-relation
+title: UAV 机动自由度扩展 → ISAC 通信-感知权衡边界改善
 aliases:
   - UAV 机动性与 ISAC 权衡
-subject: "UAV 机动自由度（位置、朝向、6D 姿态）"
-relation: "improves"
-object: "ISAC 通信-感知权衡边界（Pareto frontier）"
-agreement: "mixed"
-status: "developing"
+subject: UAV 机动自由度（位置、朝向、6D 姿态）
+relation: improves
+object: ISAC 通信-感知权衡边界（Pareto frontier）
+agreement: mixed
+status: developing
 evidence_count: 5
 source_notes:
   - "[[02vault/UAV/ISAC from the Sky UAV Trajectory Design|ISAC from the Sky]]"
@@ -16,9 +16,9 @@ source_notes:
   - "[[02vault/UAV/UAV-Assisted 5G Networks Mobility-Aware 3D Trajectory|UAV 5G 移动感知]]"
   - "[[02vault/ISAC/Channel Knowledge Map Low-Altitude ISAC|CKM 低空规划]]"
 related:
-  - "[[01knowledge/UAV-ISAC 轨迹波束资源联合设计|UAV-ISAC 主题页]]"
-last_updated: "2026-10-13"
-evidence_status: "note_only"
+  - "[[UAV-ISAC 轨迹波束资源联合设计|UAV-ISAC 主题页]]"
+last_updated: 2026-10-13
+evidence_status: note_only
 ---
 
 # UAV 机动自由度扩展 → ISAC 通信-感知权衡边界改善

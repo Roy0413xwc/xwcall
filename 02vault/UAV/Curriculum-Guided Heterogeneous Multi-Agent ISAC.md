@@ -322,7 +322,7 @@ IEEE Transactions on Communications｜DOI: 10.1109/tcomm.2026.3698854
 
 - 把 PCRB 引入 [[02vault/UAV/ISAC from the Sky UAV Trajectory Design|ISAC from the Sky]] 的场景，对比 CRB 与 PCRB 两种指标对轨迹设计的影响。
 - 研究 UAV 能耗约束下的课程学习设计。
-- 对比 C-HAPPO 与 [[02vault/ISAC/ISAC for Low-Altitude Economy DRL|DeepLSC]] 两种 MARL/DRL 方案的适用场景。
+- 对比 C-HAPPO 与 [[Integrated Sensing and Communications for Low-Altitude Economy A Deep Reinforcement Learning Approach|DeepLSC]] 两种 MARL/DRL 方案的适用场景。
 
 ---
 
@@ -335,7 +335,7 @@ IEEE Transactions on Communications｜DOI: 10.1109/tcomm.2026.3698854
 相关论文：
 
 - [[02vault/UAV/ISAC from the Sky UAV Trajectory Design|ISAC from the Sky]] — 同属 UAV-ISAC，该文为单 UAV 优化方法，本文为多 UAV 异构 MARL
-- [[02vault/ISAC/ISAC for Low-Altitude Economy DRL|DeepLSC 低空经济]] — 同为低空 ISAC + DRL，该文为单决策体 MDP，本文为异构多智能体
+- [[Integrated Sensing and Communications for Low-Altitude Economy A Deep Reinforcement Learning Approach|DeepLSC 低空经济]] — 同为低空 ISAC + DRL，该文为单决策体 MDP，本文为异构多智能体
 - [[02vault/ISAC/ISAC Toward Dual-Functional Wireless Networks (Survey)|ISAC 综述]] — 本方向的纲领性综述
 
 ---

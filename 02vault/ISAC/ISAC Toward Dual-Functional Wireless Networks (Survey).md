@@ -315,7 +315,7 @@ IEEE Journal on Selected Areas in Communications｜DOI: 10.1109/jsac.2022.315663
 - [[02vault/UAV/ISAC from the Sky UAV Trajectory Design|ISAC from the Sky]]
 - [[02vault/ISAC/Optimal ISAC Beamforming Structure|ISAC 波束成形最优结构]]
 - [[02vault/UAV/UAV-Enabled Passive 6D Movable Antenna for ISAC|UAV 6DMA ISAC]]
-- [[02vault/ISAC/ISAC for Low-Altitude Economy DRL|DeepLSC 低空经济]]
+- [[Integrated Sensing and Communications for Low-Altitude Economy A Deep Reinforcement Learning Approach|DeepLSC 低空经济]]
 
 ---
 
