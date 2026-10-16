@@ -4,44 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "53e4834c896c86cd",
+        "id": "5b22fdf6d0c7ddd8",
         "type": "tabs",
         "children": [
           {
-            "id": "4b853ac8de6901a7",
+            "id": "7e0c863fbd94aa38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02vault/ISAC/Integrated Sensing and Communications for Low-Altitude Economy A Deep Reinforcement Learning Approach.md",
+                "file": "03_Research_Ideas/GPT推荐开题isac+ai.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Integrated Sensing and Communications for Low-Altitude Economy A Deep Reinforcement Learning Approach"
+              "title": "GPT推荐开题isac+ai"
             }
           },
           {
-            "id": "f199233da810ea1b",
+            "id": "d88fa9ff79cb6570",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Research_Ideas/ai推荐开题报告1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ai推荐开题报告1"
-            }
-          },
-          {
-            "id": "b7875a6a7bea0b13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07_AI_Conversation/开题论文方向，直接和ai讨论.md",
+                "file": "07_AI_prompt/开题论文方向，直接和ai讨论.md",
                 "mode": "source",
                 "source": false
               },
@@ -69,7 +55,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
+                "sortOrder": "alphabetical",
                 "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -84,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:文献图谱",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -111,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_Research_Ideas/ai推荐开题报告1.md",
+                "file": "07_AI_prompt/开题论文方向，直接和ai讨论.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -140,7 +126,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03_Research_Ideas/ai推荐开题报告1.md"
+                "file": "07_AI_prompt/开题论文方向，直接和ai讨论.md"
               },
               "icon": "lucide-info",
               "title": "笔记属性"
@@ -288,26 +274,39 @@
       "obsidian-importer:导入笔记": false
     }
   },
-  "active": "ef7ae125f28f4e1e",
+  "active": "d88fa9ff79cb6570",
   "lastOpenFiles": [
-    "07_AI_Conversation/开题论文方向，直接和ai讨论.md",
-    "HTML/学习UAV动力学建模.md",
-    "OneNote/研2学习/九月北交就业宣讲会.md",
-    "OneNote/研2学习/GPT指导硕士论文.md",
-    "OneNote/研2学习/读文献方法.md",
-    "HTML/ISAC选题信息整理.md",
-    "03_Research_Ideas/ai推荐开题报告1.md",
-    "日记/2026-10-13.md",
-    "日记/2026-10-12.md",
+    "日记/2026-10-16.md",
+    "03_Research_Ideas/GPT推荐开题isac+ai.md",
+    "03_Research_Ideas/ai推荐开题报告1预测式波束管理与深度强化学习.md",
+    "03_Research_Ideas/未命名.md",
+    "05_Thesis/ISAC-已读论文结构化提取.md",
+    "05_Thesis/ISAC-知识图谱.md",
+    "07_AI_prompt/开题论文方向，直接和ai讨论.md",
     "日记/2026-10-15.md",
+    "日记/2026-10-14.md",
+    "日记/2026-10-12.md",
+    "日记/2026-10-13.md",
+    "HTML/学习UAV动力学建模.md",
+    "HTML/ISAC选题信息整理.md",
+    "overnight_research/2026-10-16 已读，感觉质量一般/00_morning_brief.md",
+    "07_AI_prompt/codex目录prompt.md",
+    "OneNote/研2学习/读文献方法.md",
+    "OneNote/研2学习/九月北交就业宣讲会.md",
+    "OneNote/研2学习/水导视频精华.md",
+    "OneNote/研2学习/GPT指导硕士论文.md",
+    "OneNote/研2学习/研二组会.md",
+    "overnight_research/2026-10-16 已读，感觉质量一般/08_execution_log.md",
+    "overnight_research/04_topic_candidates.md",
+    "overnight_research/2026-10-16 已读，感觉质量一般/07_references.md",
+    "overnight_research/2026-10-16 已读，感觉质量一般/06_simulation_plan.md",
+    "overnight_research/2026-10-16 已读，感觉质量一般/05_top3_proposals.md",
+    "overnight_research/2026-10-16 已读，感觉质量一般/04_topic_candidates.md",
+    "overnight_research/2026-10-16 已读，感觉质量一般",
+    "overnight_research",
     "HTML",
     "日记/6acf571a-8a5c-83ee-a22a-c11eddc2a889.html",
     "6acf571a-8a5c-83ee-a22a-c11eddc2a889.html",
-    "模板/xwc精读模板.md",
-    "模板/开题速读文献模板.md",
-    "OneNote/研2学习/水导视频精华.md",
-    "OneNote/研2学习/研二组会.md",
-    "OneNote/水导视频精华/水导视频精华.md",
     "论文图片附件/读文献方法 image.jpg",
     "OneNote/研2学习",
     "论文图片附件/水导视频精华 image 13.png",
@@ -321,21 +320,8 @@
     "论文图片附件/水导视频精华 image 5.png",
     "OneNote/水导视频精华",
     "OneNote",
-    "07_AI_Conversation/codex目录prompt.md",
-    "02vault/ISAC/Integrated Sensing and Communications for Low-Altitude Economy A Deep Reinforcement Learning Approach.md",
-    "未命名.md",
     "论文图片附件",
-    "01knowledge/02UAV/UAV-ISAC 轨迹波束资源联合设计.md",
-    "01knowledge/index.md",
-    "01knowledge/log.md",
-    "02vault/ISAC/Learning to Beamform for ISAC (GNN).md",
-    "02vault/ISAC/Joint Target Assignment and Resource Allocation (Fairness).md",
-    "02vault/ISAC/ISAC Toward Dual-Functional Wireless Networks (Survey).md",
-    "模板/论文精读模板.md",
-    "02vault/UAV/A_Control-Based_Design_of_Beamforming_and_Trajectory_for_UAV-Enabled_ISAC_System.md",
     "01knowledge/02UAV",
-    "01knowledge/01数学理论",
-    "03fulltext/其他/images/FHVKJ6WF",
     "思维导图？.canvas"
   ]
 }

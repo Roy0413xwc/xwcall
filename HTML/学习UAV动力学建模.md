@@ -108,7 +108,7 @@ max ⁡ x 2 \max x^2
 
 通信里面常见：
 
-S I N R = ∣ h H w ∣ 2 ∑ ∣ h H w i ∣ 2 + σ 2 SINR = \frac{|h^Hw|^2} {\sum |h^Hw_i|^2+\sigma^2}
+$S I N R = ∣ h H w ∣ 2 ∑ ∣ h H w i ∣ 2 + σ 2 SINR = \frac{|h^Hw|^2} {\sum |h^Hw_i|^2+\sigma^2}$
 
 分子分母都有变量。
 
@@ -145,7 +145,7 @@ x 1,x 2 x_1,x_2
 
 有：
 
-f (θ x 1 + (1 − θ) x 2) ≤ θ f (x 1) + (1 − θ) f (x 2) f(\theta x_1+(1-\theta)x_2) \le \theta f(x_1) +(1-\theta)f(x_2)
+$f (θ x 1 + (1 − θ) x 2) ≤ θ f (x 1) + (1 − θ) f (x 2) f(\theta x_1+(1-\theta)x_2) \le \theta f(x_1) +(1-\theta)f(x_2)$
 
 其中：
 
