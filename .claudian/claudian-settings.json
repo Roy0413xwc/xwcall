@@ -39,7 +39,8 @@
       "modelAliases": {},
       "environmentVariables": "",
       "environmentHash": "",
-      "selectedModels": []
+      "selectedModels": [],
+      "sessionEnvironmentHash": ""
     },
     "codex": {
       "enabled": true,
@@ -62,6 +63,7 @@
       "reasoningSummary": "detailed",
       "environmentVariables": "",
       "environmentHash": "runtime-input:v1:ed54f4f5238abeec7f65a5da1e468c9a639e157a7d1c7753b53f54ba1196e8a0",
+      "sessionEnvironmentHash": "runtime-input:v1:cf4a613a63a895356fbc95544817979656506c93b9fb3fe1c76833522e1c19fc",
       "installationMethodsByHost": {},
       "wslDistroOverridesByHost": {},
       "selectedModels": [
@@ -351,6 +353,7 @@
       "environmentVariables": "",
       "modelAliases": {},
       "preferredThinkingByModel": {},
+      "sessionEnvironmentHash": "",
       "visibleModels": [],
       "selectedModels": []
     }
@@ -360,7 +363,10 @@
     "providerId": "codex",
     "model": "openai-codex/qwen3.8-flash"
   },
-  "savedProviderModel": {},
+  "inlineEditModel": null,
+  "savedProviderModel": {
+    "codex": "openai-codex/hy4-preview"
+  },
   "savedProviderEffort": {
     "codex": "high"
   },
@@ -373,6 +379,7 @@
   "enableAutoScroll": true,
   "showMessageTimestamps": true,
   "deferMathRenderingDuringStreaming": true,
+  "pluginRenderedFenceLanguages": [],
   "expandFileEditsByDefault": false,
   "chatViewPlacement": "right-sidebar",
   "enableZenMode": true,

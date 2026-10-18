@@ -13,40 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Research_Ideas/ISAC开题五篇小报告_合集.md",
+                "file": "01knowledge/03AI理论/世界模型.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ISAC开题五篇小报告_合集"
-            }
-          },
-          {
-            "id": "7e0c863fbd94aa38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_Research_Ideas/GPT推荐开题isac+ai.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GPT推荐开题isac+ai"
-            }
-          },
-          {
-            "id": "d88fa9ff79cb6570",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日记/2026-10-17.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-10-17"
+              "title": "世界模型"
             }
           }
         ]
@@ -123,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 408.5
+    "width": 317.5
   },
   "right": {
     "id": "b576cc4288effc9a",
@@ -139,10 +111,56 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03_Research_Ideas/ISAC开题五篇小报告_合集.md"
+                "file": "01knowledge/03AI理论/世界模型.md"
               },
               "icon": "lucide-info",
               "title": "笔记属性"
+            }
+          },
+          {
+            "id": "dfc253ee911f7be4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "6d1f33d87d661207",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "0251fe4bc68a7aff",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {
+                "tabWorkspace": {
+                  "version": 1,
+                  "openTabs": [
+                    {
+                      "tabId": "tab-1791860092309-pclhmzc",
+                      "conversationId": null,
+                      "draftModel": "openai-codex/qwen3.8-flash",
+                      "providerId": "codex"
+                    }
+                  ],
+                  "activeTabId": "tab-1791860092309-pclhmzc"
+                }
+              },
+              "icon": "bot",
+              "title": "Claudian"
             }
           },
           {
@@ -151,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Research_Ideas/ai推荐开题报告1.md",
+                "file": "01knowledge/03AI理论/世界模型.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_Research_Ideas/ai推荐开题报告1.md",
+                "file": "01knowledge/03AI理论/世界模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -216,58 +234,12 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
-          },
-          {
-            "id": "0251fe4bc68a7aff",
-            "type": "leaf",
-            "state": {
-              "type": "claudian-view",
-              "state": {
-                "tabWorkspace": {
-                  "version": 1,
-                  "openTabs": [
-                    {
-                      "tabId": "tab-1791860092309-pclhmzc",
-                      "conversationId": null,
-                      "draftModel": "openai-codex/qwen3.8-flash",
-                      "providerId": "codex"
-                    }
-                  ],
-                  "activeTabId": "tab-1791860092309-pclhmzc"
-                }
-              },
-              "icon": "bot",
-              "title": "Claudian"
-            }
-          },
-          {
-            "id": "6d1f33d87d661207",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-bookmark",
-              "title": "书签"
-            }
-          },
-          {
-            "id": "dfc253ee911f7be4",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 433.5
+    "width": 309.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -289,52 +261,52 @@
   },
   "active": "a2cd81779532ad7f",
   "lastOpenFiles": [
-    "03_Research_Ideas/GPT推荐开题isac+ai.md",
-    "日记/2026-10-17.md",
-    "03_Research_Ideas/ISAC开题五篇小报告_合集.md",
-    "日记/2026-10-16.md",
-    "03_Research_Ideas/05_面向分布式ISAC的联邦学习与协同目标跟踪.md",
-    "03_Research_Ideas/01_不确定性感知的低空无人机ISAC预测式波束管理.md",
-    "03_Research_Ideas/02_面向多无人机协同ISAC的图强化学习资源分配.md",
-    "03_Research_Ideas/03_面向动态目标跟踪的任务驱动ISAC资源优化.md",
-    "03_Research_Ideas/04_基于生成式AI的ISAC数据增强与跨场景泛化.md",
-    "07_AI_prompt/开题论文方向，直接和ai讨论.md",
-    "07_AI_prompt/codex目录prompt.md",
-    "日记/2026-10-12.md",
-    "日记/2026-10-13.md",
-    "日记/2026-10-14.md",
-    "日记/2026-10-15.md",
-    "03_Research_Ideas/ai推荐开题报告1预测式波束管理与深度强化学习.md",
-    "03_Research_Ideas/未命名.md",
-    "05_Thesis/ISAC-已读论文结构化提取.md",
-    "05_Thesis/ISAC-知识图谱.md",
-    "HTML/学习UAV动力学建模.md",
-    "HTML/ISAC选题信息整理.md",
-    "overnight_research/2026-10-16 已读，感觉质量一般/00_morning_brief.md",
-    "OneNote/研2学习/读文献方法.md",
-    "OneNote/研2学习/九月北交就业宣讲会.md",
-    "OneNote/研2学习/水导视频精华.md",
-    "OneNote/研2学习/GPT指导硕士论文.md",
-    "overnight_research/2026-10-16 已读，感觉质量一般",
+    "03_Research_Ideas/最想做GPT推荐开题isac+ai.md",
+    "OneNote/研一学习链接/雷达原理：gpt、笔记、视频.md",
+    "OneNote/研一学习链接/波束成形.md",
+    "OneNote/研一学习链接/手机卡.md",
+    "OneNote/研一学习链接/云智实习.md",
+    "OneNote/研一学习链接/天线基础在good note.md",
+    "OneNote/研一学习链接/gpt带我复现论文1.md",
+    "OneNote/研一学习链接/水导视频精华.md",
+    "OneNote/研一学习链接/论文讲解7-18强化学习.md",
+    "OneNote/研一学习链接/八月组会.md",
+    "OneNote/面试及工作/面试0--自己想的.md",
+    "OneNote/面试及工作/华为机考python版本.md",
+    "OneNote/面试及工作/第4天：Agent 与三个工具.md",
+    "日记/2026-10-18.md",
+    "论文图片附件/八月组会 image.jpg",
+    "论文图片附件/云智实习 image 7.png",
+    "论文图片附件/云智实习 image 6.png",
+    "论文图片附件/云智实习 image 5.png",
+    "论文图片附件/云智实习 image 4.png",
+    "论文图片附件/云智实习 image.jpg",
+    "论文图片附件/云智实习 image 3.png",
+    "论文图片附件/云智实习 image 2.png",
+    "论文图片附件/云智实习 image 1.png",
+    "论文图片附件/云智实习 image.png",
+    "OneNote/研一学习链接/强化学习--西湖大学.md",
+    "OneNote/研一学习链接/gpt带我复现论文2.md",
+    "OneNote/研一学习链接/人工智能论文集合，笔记在小绿鲸.md",
+    "论文图片附件/第六章+目标距离的测量(wuwei).pdf",
+    "论文图片附件/第五章+雷达的作用距离(wuwei).pdf",
+    "论文图片附件/第三章+雷达接收机(wuwei).pdf",
+    "OneNote/研一学习链接/gpt学习图论与图.md",
+    "OneNote/研一学习链接/Isac,uav 论文复现选择.md",
+    "OneNote/研一学习链接/gpt学无线通信matlab教程.md",
+    "OneNote/研一学习链接/Gpt知乎入门isac.md",
+    "OneNote/研一学习链接/读文献方法.md",
+    "OneNote/研一学习链接",
+    "OneNote/面试及工作/选择题大模型.md",
+    "OneNote/面试及工作/选择题深度学习.md",
+    "OneNote/面试及工作/选择题机器学习基础.md",
+    "OneNote/面试及工作/华为机考线性代数选择题.md",
+    "OneNote/面试及工作",
+    "01knowledge/03AI理论",
+    "03_Research_Ideas/ISAC开题五篇小报告_合集ai",
+    "overnight_research/2026-10-16 已读感觉codex生成质量一般",
     "overnight_research",
     "HTML",
-    "日记/6acf571a-8a5c-83ee-a22a-c11eddc2a889.html",
-    "6acf571a-8a5c-83ee-a22a-c11eddc2a889.html",
-    "论文图片附件/读文献方法 image.jpg",
-    "OneNote/研2学习",
-    "论文图片附件/水导视频精华 image 13.png",
-    "论文图片附件/水导视频精华 image 12.png",
-    "论文图片附件/水导视频精华 image 11.png",
-    "论文图片附件/水导视频精华 image 10.png",
-    "论文图片附件/水导视频精华 image 9.png",
-    "论文图片附件/水导视频精华 image 8.png",
-    "论文图片附件/水导视频精华 image 7.png",
-    "论文图片附件/水导视频精华 image 6.png",
-    "论文图片附件/水导视频精华 image 5.png",
-    "OneNote/水导视频精华",
-    "OneNote",
-    "论文图片附件",
-    "01knowledge/02UAV",
     "思维导图？.canvas"
   ]
 }

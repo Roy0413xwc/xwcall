@@ -235,7 +235,7 @@ x 0 x_0
 
 一阶近似：
 
-f (x) ≈ f (x 0) + ∇ f (x 0) (x − x 0) f(x) \approx f(x_0) + \nabla f(x_0)(x-x_0)
+$f (x) ≈ f (x 0) + ∇ f (x 0) (x − x 0) f(x) \approx f(x_0) + \nabla f(x_0)(x-x_0)$
 
 得到：
 
