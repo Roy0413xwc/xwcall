@@ -1,7 +1,6 @@
 ## 和gpt讨论
 
-1. 专业/年级：硕士二年级
-   开题时间：2026年11月1号
+1. 专业/年级：硕士二年级s   开题时间：2026年11月1号
    预计毕业时间：2028年6月
 
 2. 导师或师兄师姐的代表论文：[Shaoyi Xu - IEEE Xplore Author Profile](https://ieeexplore.ieee.org/author/37395024500)这个是我导师的ieee主页，## Publication Topics 研究主题
