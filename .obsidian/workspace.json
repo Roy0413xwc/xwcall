@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01knowledge/03AI理论/世界模型.md",
+                "file": "03_Research_Ideas/开题报告初稿10.24/最想做GPT推荐开题isac+ai.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "世界模型"
+              "title": "最想做GPT推荐开题isac+ai"
             }
           }
         ]
@@ -111,7 +111,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "01knowledge/03AI理论/世界模型.md"
+                "file": "03_Research_Ideas/开题报告初稿10.24/最想做GPT推荐开题isac+ai.md"
               },
               "icon": "lucide-info",
               "title": "笔记属性"
@@ -141,35 +141,12 @@
             }
           },
           {
-            "id": "0251fe4bc68a7aff",
-            "type": "leaf",
-            "state": {
-              "type": "claudian-view",
-              "state": {
-                "tabWorkspace": {
-                  "version": 1,
-                  "openTabs": [
-                    {
-                      "tabId": "tab-1791860092309-pclhmzc",
-                      "conversationId": null,
-                      "draftModel": "openai-codex/qwen3.8-flash",
-                      "providerId": "codex"
-                    }
-                  ],
-                  "activeTabId": "tab-1791860092309-pclhmzc"
-                }
-              },
-              "icon": "bot",
-              "title": "Claudian"
-            }
-          },
-          {
             "id": "d70cb966f8536434",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01knowledge/03AI理论/世界模型.md",
+                "file": "03_Research_Ideas/最想做GPT推荐开题isac+ai.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,16 +203,30 @@
             }
           },
           {
-            "id": "ee1a6f2fa1b5c239",
+            "id": "0251fe4bc68a7aff",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "type": "claudian-view",
+              "state": {
+                "tabWorkspace": {
+                  "version": 1,
+                  "openTabs": [
+                    {
+                      "tabId": "tab-1791860092309-pclhmzc",
+                      "conversationId": null,
+                      "draftModel": "openai-codex/qwen3.8-flash",
+                      "providerId": "codex"
+                    }
+                  ],
+                  "activeTabId": "tab-1791860092309-pclhmzc"
+                }
+              },
+              "icon": "bot",
+              "title": "Claudian"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -254,14 +245,17 @@
       "workspaces:管理工作区布局": false,
       "zk-prefixer:创建时间戳笔记": false,
       "templater-obsidian:Templater": false,
-      "realclaudian:Open Claudian": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-importer:导入笔记": false
+      "realclaudian:Open Claudian": false
     }
   },
-  "active": "a2cd81779532ad7f",
+  "active": "dfc253ee911f7be4",
   "lastOpenFiles": [
-    "03_Research_Ideas/最想做GPT推荐开题isac+ai.md",
+    "03_Research_Ideas/开题报告初稿10.24/ai开题报告1预测式波束管理与深度强化学习.md",
+    "03_Research_Ideas/开题报告初稿10.24/最想做GPT推荐开题isac+ai.md",
+    "03_Research_Ideas/开题报告初稿10.24",
+    "03_Research_Ideas/组会备选10.31",
+    "03_Research_Ideas/未命名.md",
+    "01knowledge/03AI理论/世界模型.md",
     "OneNote/研一学习链接/雷达原理：gpt、笔记、视频.md",
     "OneNote/研一学习链接/波束成形.md",
     "OneNote/研一学习链接/手机卡.md",
@@ -297,16 +291,10 @@
     "OneNote/研一学习链接/Gpt知乎入门isac.md",
     "OneNote/研一学习链接/读文献方法.md",
     "OneNote/研一学习链接",
-    "OneNote/面试及工作/选择题大模型.md",
-    "OneNote/面试及工作/选择题深度学习.md",
-    "OneNote/面试及工作/选择题机器学习基础.md",
-    "OneNote/面试及工作/华为机考线性代数选择题.md",
     "OneNote/面试及工作",
     "01knowledge/03AI理论",
-    "03_Research_Ideas/ISAC开题五篇小报告_合集ai",
+    "03_Research_Ideas/开题报告初稿10.24/ISAC开题五篇小报告_合集ai",
     "overnight_research/2026-10-16 已读感觉codex生成质量一般",
-    "overnight_research",
-    "HTML",
     "思维导图？.canvas"
   ]
 }
