@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a2cd81779532ad7f",
+            "id": "59412e9fb40487ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Research_Ideas/开题报告初稿10.24/最想做GPT推荐开题isac+ai.md",
+                "file": "03_Research_Ideas/组会备选10.31/gpt推荐ai+isac方向讲解论文.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "最想做GPT推荐开题isac+ai"
+              "title": "gpt推荐ai+isac方向讲解论文"
             }
           }
         ]
@@ -75,27 +75,12 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
-          },
-          {
-            "id": "6bb6f0213dee633d",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "日记/2026-10-17.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "大纲"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 327.8999938964844
   },
   "right": {
     "id": "b576cc4288effc9a",
@@ -111,10 +96,25 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03_Research_Ideas/开题报告初稿10.24/最想做GPT推荐开题isac+ai.md"
+                "file": "03_Research_Ideas/组会备选10.31/gpt推荐ai+isac方向讲解论文.md"
               },
               "icon": "lucide-info",
               "title": "笔记属性"
+            }
+          },
+          {
+            "id": "6bb6f0213dee633d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03_Research_Ideas/组会备选10.31/gpt推荐ai+isac方向讲解论文.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
             }
           },
           {
@@ -230,7 +230,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 318.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,14 +248,19 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "dfc253ee911f7be4",
+  "active": "59412e9fb40487ce",
   "lastOpenFiles": [
+    "03_Research_Ideas/开题报告初稿10.24/世界模型.md",
+    "03_Research_Ideas/组会备选10.31/gpt推荐ai+isac方向讲解论文.md",
+    "Pasted image 20261021145738.png",
     "03_Research_Ideas/开题报告初稿10.24/ai开题报告1预测式波束管理与深度强化学习.md",
+    "overnight_research/2026-10-16 已读感觉codex生成质量一般/00_morning_brief.md",
+    "01knowledge/03AI理论/世界模型.md",
+    "01knowledge/01数学理论/SCA与SDR优化方法基础.md",
     "03_Research_Ideas/开题报告初稿10.24/最想做GPT推荐开题isac+ai.md",
     "03_Research_Ideas/开题报告初稿10.24",
     "03_Research_Ideas/组会备选10.31",
     "03_Research_Ideas/未命名.md",
-    "01knowledge/03AI理论/世界模型.md",
     "OneNote/研一学习链接/雷达原理：gpt、笔记、视频.md",
     "OneNote/研一学习链接/波束成形.md",
     "OneNote/研一学习链接/手机卡.md",
@@ -278,7 +283,6 @@
     "论文图片附件/云智实习 image 3.png",
     "论文图片附件/云智实习 image 2.png",
     "论文图片附件/云智实习 image 1.png",
-    "论文图片附件/云智实习 image.png",
     "OneNote/研一学习链接/强化学习--西湖大学.md",
     "OneNote/研一学习链接/gpt带我复现论文2.md",
     "OneNote/研一学习链接/人工智能论文集合，笔记在小绿鲸.md",
@@ -286,10 +290,6 @@
     "论文图片附件/第五章+雷达的作用距离(wuwei).pdf",
     "论文图片附件/第三章+雷达接收机(wuwei).pdf",
     "OneNote/研一学习链接/gpt学习图论与图.md",
-    "OneNote/研一学习链接/Isac,uav 论文复现选择.md",
-    "OneNote/研一学习链接/gpt学无线通信matlab教程.md",
-    "OneNote/研一学习链接/Gpt知乎入门isac.md",
-    "OneNote/研一学习链接/读文献方法.md",
     "OneNote/研一学习链接",
     "OneNote/面试及工作",
     "01knowledge/03AI理论",
