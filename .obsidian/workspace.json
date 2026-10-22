@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5b22fdf6d0c7ddd8",
+        "id": "9423594a2339b3ef",
         "type": "tabs",
         "children": [
           {
-            "id": "59412e9fb40487ce",
+            "id": "1f9d39e6ad2cf61b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Research_Ideas/组会备选10.31/顶刊集合.md",
+                "file": "02vault/备选讲组会论文/You Only Transmit Once- Unified Generation and Comprehension for Efficient Semantic Communication精读论文.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "顶刊集合"
-            }
-          },
-          {
-            "id": "b5bce4254d7fc556",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_Research_Ideas/组会备选10.31/gpt推荐ai+isac方向讲解论文.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "gpt推荐ai+isac方向讲解论文"
+              "title": "You Only Transmit Once- Unified Generation and Comprehension for Efficient Semantic Communication精读论文"
             }
           }
         ]
@@ -110,7 +96,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03_Research_Ideas/组会备选10.31/gpt推荐ai+isac方向讲解论文.md"
+                "file": "02vault/备选讲组会论文/You Only Transmit Once- Unified Generation and Comprehension for Efficient Semantic Communication精读论文.md"
               },
               "icon": "lucide-info",
               "title": "笔记属性"
@@ -122,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_Research_Ideas/组会备选10.31/顶刊集合.md",
+                "file": "02vault/备选讲组会论文/You Only Transmit Once- Unified Generation and Comprehension for Efficient Semantic Communication精读论文.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -262,54 +248,54 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "59412e9fb40487ce",
+  "active": "1f9d39e6ad2cf61b",
   "lastOpenFiles": [
-    "03_Research_Ideas/组会备选10.31/gpt推荐ai+isac方向讲解论文.md",
-    "03_Research_Ideas/组会备选10.31/顶刊集合.md",
-    "03_Research_Ideas/开题报告初稿10.24/世界模型.md",
-    "Pasted image 20261021145738.png",
-    "03_Research_Ideas/开题报告初稿10.24/ai开题报告1预测式波束管理与深度强化学习.md",
-    "overnight_research/2026-10-16 已读感觉codex生成质量一般/00_morning_brief.md",
-    "01knowledge/03AI理论/世界模型.md",
-    "01knowledge/01数学理论/SCA与SDR优化方法基础.md",
-    "03_Research_Ideas/开题报告初稿10.24/最想做GPT推荐开题isac+ai.md",
+    "02vault/备选讲组会论文/Wireless Communication for Low-Altitude Economy With UAV Swarm Enabled Two-Level Movable Antenna System.md",
+    "02vault/备选讲组会论文/You Only Transmit Once- Unified Generation and Comprehension for Efficient Semantic Communication.md",
+    "02vault/备选讲组会论文/You Only Transmit Once- Unified Generation and Comprehension for Efficient Semantic Communication精读论文.md",
+    "02vault/备选讲组会论文/RL-Based Anti-Jamming Maritime Communications for LLM Inference精读论文.md",
+    "Pasted image 20261022171132.png",
+    "02vault/备选讲组会论文/RL-Based Anti-Jamming Maritime Communications for LLM Inference.md",
+    "02vault/备选讲组会论文/From_Sensing_to_Secrecy_ISAC_note.md",
+    "Direct localization for massive MIMO.md",
+    "02vault/备选讲组会论文/MTL-CNET- An Advanced Integrated Sensing and Communication Framework Utilizing Complex Neural Networks and Multi-Task Learning.md",
+    "02vault/备选讲组会论文/From Sensing to Secrecy- Active Eavesdropper Localization in Massive MIMO ISAC.md",
+    "02vault/备选讲组会论文/Energy-Efficient and Intelligent ISAC in V2X Networks With Spiking Neural Networks-Driven DRL论文精读笔记.md",
+    "02vault/备选讲组会论文/Cross-Domain Continual Learning for Edge Intelligence in Wireless ISAC Networks精读论文.md",
+    "02vault/备选讲组会论文/Integrated Sensing and Communications for Low-Altitude Economy- A Deep Reinforcement Learning Approach.md",
+    "02vault/备选讲组会论文/EdgeCL_%E8%AE%BA%E6%96%87%E7%B2%BE%E8%AF%BB%E7%AC%94%E8%AE%B0_%E5%AE%8C%E6%95%B4%E7%89%88.md",
+    "Pasted image 20261022155530.png",
+    "Pasted image 20261022155526.png",
+    "Pasted image 20261022155514.png",
+    "02vault/备选讲组会论文/Cross-Domain Continual Learning for Edge Intelligence in Wireless ISAC Networks.md",
+    "02vault/备选讲组会论文/ISAC_V2X_SNN_DRL_%E8%AE%BA%E6%96%87%E7%B2%BE%E8%AF%BB%E7%AC%94%E8%AE%B0.md",
+    "02vault/备选讲组会论文/Energy-Efficient and Intelligent ISAC in V2X Networks With Spiking Neural Networks-Driven DRL.md",
+    "Radar-assisted predictive beamforming for vehicular links.md",
+    "LIF 神经元与替代梯度.md",
+    "OneNote/研一学习链接/波束成形.md",
+    "02vault/备选讲组会论文/DDRL- A Dual-Phase Deep Reinforcement Learning Approach for UAV-Assisted Content Delivery Across Multiple Base Stations.md",
+    "03fulltext/备选讲组会论文/7MZRDAU9.md",
+    "03fulltext/备选讲组会论文/5Q3UZTCC.md",
+    "模板/信息与通信工程论文精读模板.md",
+    "模板/知识库模板/论文精读模板.md",
+    "02vault/_index/研究主题索引.md",
+    "模板/知识库模板/xwc精读模板.md",
+    "02vault/备选讲组会论文",
+    "03fulltext/备选讲组会论文",
+    "论文图片附件/Pasted image 20261021145738.png",
     "03_Research_Ideas/开题报告初稿10.24",
     "03_Research_Ideas/组会备选10.31",
-    "03_Research_Ideas/未命名.md",
-    "OneNote/研一学习链接/雷达原理：gpt、笔记、视频.md",
-    "OneNote/研一学习链接/波束成形.md",
-    "OneNote/研一学习链接/手机卡.md",
-    "OneNote/研一学习链接/云智实习.md",
-    "OneNote/研一学习链接/天线基础在good note.md",
-    "OneNote/研一学习链接/gpt带我复现论文1.md",
-    "OneNote/研一学习链接/水导视频精华.md",
-    "OneNote/研一学习链接/论文讲解7-18强化学习.md",
-    "OneNote/研一学习链接/八月组会.md",
-    "OneNote/面试及工作/面试0--自己想的.md",
-    "OneNote/面试及工作/华为机考python版本.md",
-    "OneNote/面试及工作/第4天：Agent 与三个工具.md",
-    "日记/2026-10-18.md",
     "论文图片附件/八月组会 image.jpg",
     "论文图片附件/云智实习 image 7.png",
     "论文图片附件/云智实习 image 6.png",
     "论文图片附件/云智实习 image 5.png",
     "论文图片附件/云智实习 image 4.png",
-    "论文图片附件/云智实习 image.jpg",
-    "论文图片附件/云智实习 image 3.png",
-    "论文图片附件/云智实习 image 2.png",
-    "论文图片附件/云智实习 image 1.png",
-    "OneNote/研一学习链接/强化学习--西湖大学.md",
-    "OneNote/研一学习链接/gpt带我复现论文2.md",
-    "OneNote/研一学习链接/人工智能论文集合，笔记在小绿鲸.md",
     "论文图片附件/第六章+目标距离的测量(wuwei).pdf",
     "论文图片附件/第五章+雷达的作用距离(wuwei).pdf",
     "论文图片附件/第三章+雷达接收机(wuwei).pdf",
-    "OneNote/研一学习链接/gpt学习图论与图.md",
     "OneNote/研一学习链接",
     "OneNote/面试及工作",
     "01knowledge/03AI理论",
-    "03_Research_Ideas/开题报告初稿10.24/ISAC开题五篇小报告_合集ai",
-    "overnight_research/2026-10-16 已读感觉codex生成质量一般",
     "思维导图？.canvas"
   ]
 }

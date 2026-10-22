@@ -124,3 +124,64 @@ TCOM · 2026 年 3 月 2 日 · DOI: 10.1109/TCOMM.2026.3669447
 组会可以讨论： 图像中发现的可疑设备能否真正提升无线干扰检测？如果视觉信息不准确，或者干扰源不在摄像头视野内，系统会怎样？
 
 我的判断： 如果你想让组会内容有辨识度，这篇值得优先考虑。不过它的核心是智能无线安全，而不是 ISAC 本身。
+
+
+##  Multi-Domain Supervised Contrastive Learning for UAV Radio-Frequency Open-Set Recognition
+
+IEEE JSAC 2026, Vol. 44, pp. 4083–4098
+
+[IEEE Xplore 原文](https://ieeexplore.ieee.org/document/11417759?utm_source=chatgpt.com) · [DOI: 10.1109/JSAC.2026.3669136](https://doi.org/10.1109/JSAC.2026.3669136?utm_source=chatgpt.com)
+
+研究场景：在低空 ISAC 网络中识别未经授权、甚至训练时从未见过的无人机。
+
+传统分类模型通常假设测试时遇到的无人机类型已经出现在训练集中。但现实中可能出现新型号、未知设备和未经授权的无人机，这属于开放集识别问题（Open-Set Recognition）。
+
+作者将 ResNet 提取的纹理特征与 Transformer Encoder 提取的时频位置特征进行融合，再利用监督对比学习优化特征表示，并设计改进的 OpenMax 机制识别未知类型。论文报告，在包含 25 种无人机的开放数据集上，闭集识别准确率为 95.12%，开放集识别准确率为 96.08%。
+
+![](https://www.google.com/s2/favicons?domain=https://ieeexplore.ieee.org&sz=32)
+
+IEEE Xplore
+
++1
+
+创新看点：
+
+- 把低空无线网络安全问题转化为未知无线设备识别问题。
+    
+- 不仅判断“它是哪一类无人机”，还要处理“它可能不属于任何已知类别”。
+    
+- 融合时频特征与对比学习，研究重点比单纯做常规分类更具体。
+    
+
+值得提的问题： 换一个接收机、采样率、传播环境或信噪比之后，开放集识别性能还是否可靠？论文中的未知类别是否足够代表真实世界的新型无人机？
+
+我的评价： 如果你想兼顾 AI、无人机、低空 ISAC 和实际应用，这是我最建议优先阅读的论文之一。
+
+## 8. You Only Transmit Once: Unified Generation and Comprehension for Efficient Semantic Communication
+
+IEEE JSAC 2026, Vol. 44, pp. 3349–3364
+
+[IEEE DOI 原文](https://doi.org/10.1109/JSAC.2026.3655643?utm_source=chatgpt.com) · [开放版本](https://discovery.ucl.ac.uk/id/eprint/10221082/?utm_source=chatgpt.com)
+
+研究场景：一次无线传输，同时支持图像生成与语义理解。
+
+传统通信系统往往为图像重建、目标检测和文本理解分别设计不同的处理流程。这篇论文提出 YOTO（You Only Transmit Once）语义通信框架：图像生成任务使用多粒度视觉编码器、数字调制自编码器和条件概率视觉解码器；语义理解任务则通过多模态语言模型将接收到的视觉信息转换成描述文本，无须再单独发送一份文本数据。
+
+![](https://www.google.com/s2/favicons?domain=https://discovery.ucl.ac.uk&sz=32)
+
+UCL Discovery
+
++1
+
+创新看点：
+
+- 将图像生成与语义理解放在同一套传输框架中。
+    
+- 联合考虑源特征压缩和信道特征压缩。
+    
+- 可以讨论生成式 AI 与传统数字无线传输之间的接口设计。
+    
+
+组会问题： 一套压缩后的视觉表示是否真的能同时支持高质量重建和准确理解？在低信噪比下，语义任务的准确性与图像的视觉保真度如何权衡？
+
+我的评价： 如果你希望讲生成式 AI、多模态模型和通信结合，这篇很有吸引力；但它不是直接针对 ISAC 的论文。
