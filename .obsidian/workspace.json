@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02vault/备选讲组会论文/You Only Transmit Once- Unified Generation and Comprehension for Efficient Semantic Communication精读论文.md",
+                "file": "02vault/备选讲组会论文/You Only Transmit Once- Unified Generation and Comprehension for Efficient Semantic Communication论文精读笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "You Only Transmit Once- Unified Generation and Comprehension for Efficient Semantic Communication精读论文"
+              "title": "You Only Transmit Once- Unified Generation and Comprehension for Efficient Semantic Communication论文精读笔记"
             }
           }
         ]
@@ -96,7 +96,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02vault/备选讲组会论文/You Only Transmit Once- Unified Generation and Comprehension for Efficient Semantic Communication精读论文.md"
+                "file": "02vault/备选讲组会论文/UAV-Based Jamming Detection for Large Language Model-Enabled Wireless Network还没精读.md"
               },
               "icon": "lucide-info",
               "title": "笔记属性"
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02vault/备选讲组会论文/You Only Transmit Once- Unified Generation and Comprehension for Efficient Semantic Communication精读论文.md",
+                "file": "02vault/备选讲组会论文/You Only Transmit Once- Unified Generation and Comprehension for Efficient Semantic Communication论文精读笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -230,7 +230,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,7 +250,22 @@
   },
   "active": "1f9d39e6ad2cf61b",
   "lastOpenFiles": [
+    "02vault/备选讲组会论文/Large-Model AI for Near-Field Beam Prediction- A CNN–GPT2 Framework for 6G XL-MIMO.md",
+    "02vault/备选讲组会论文/Cross-Domain Continual Learning for Edge Intelligence in Wireless ISAC Networks精读论文.md",
+    "02vault/备选讲组会论文/DDRL- A Dual-Phase Deep Reinforcement Learning Approach for UAV-Assisted Content Delivery Across Multiple Base Stations.md",
+    "07_AI_prompt/开题报告学校模板.md",
+    "模板/信息与通信工程论文精读模板.md",
+    "模板/开题速读文献模板.md",
+    "03_Research_Ideas/开题报告初稿10.24/最想做GPT推荐开题isac+ai.md",
+    "03_Research_Ideas/开题报告初稿10.24/世界模型.md",
+    "03_Research_Ideas/开题报告初稿10.24/知乎找灵感.md",
+    "03_Research_Ideas/开题报告初稿10.24/ai开题报告1预测式波束管理与深度强化学习.md",
+    "03_Research_Ideas/开题报告初稿10.24/ISAC开题五篇小报告_合集ai/ISAC开题五篇小报告_合集.md",
+    "02vault/备选讲组会论文/UAV-Based_Jamming_Detection_for_LLM-Enabled_Wireless_Networks_论文精读笔记.md",
     "02vault/备选讲组会论文/Wireless Communication for Low-Altitude Economy With UAV Swarm Enabled Two-Level Movable Antenna System.md",
+    "02vault/备选讲组会论文/UAV-Based Jamming Detection for Large Language Model-Enabled Wireless Network还没精读.md",
+    "Pasted image 20261022224039.png",
+    "02vault/备选讲组会论文/You Only Transmit Once- Unified Generation and Comprehension for Efficient Semantic Communication论文精读笔记.md",
     "02vault/备选讲组会论文/You Only Transmit Once- Unified Generation and Comprehension for Efficient Semantic Communication.md",
     "02vault/备选讲组会论文/You Only Transmit Once- Unified Generation and Comprehension for Efficient Semantic Communication精读论文.md",
     "02vault/备选讲组会论文/RL-Based Anti-Jamming Maritime Communications for LLM Inference精读论文.md",
@@ -261,25 +276,11 @@
     "02vault/备选讲组会论文/MTL-CNET- An Advanced Integrated Sensing and Communication Framework Utilizing Complex Neural Networks and Multi-Task Learning.md",
     "02vault/备选讲组会论文/From Sensing to Secrecy- Active Eavesdropper Localization in Massive MIMO ISAC.md",
     "02vault/备选讲组会论文/Energy-Efficient and Intelligent ISAC in V2X Networks With Spiking Neural Networks-Driven DRL论文精读笔记.md",
-    "02vault/备选讲组会论文/Cross-Domain Continual Learning for Edge Intelligence in Wireless ISAC Networks精读论文.md",
     "02vault/备选讲组会论文/Integrated Sensing and Communications for Low-Altitude Economy- A Deep Reinforcement Learning Approach.md",
     "02vault/备选讲组会论文/EdgeCL_%E8%AE%BA%E6%96%87%E7%B2%BE%E8%AF%BB%E7%AC%94%E8%AE%B0_%E5%AE%8C%E6%95%B4%E7%89%88.md",
     "Pasted image 20261022155530.png",
     "Pasted image 20261022155526.png",
     "Pasted image 20261022155514.png",
-    "02vault/备选讲组会论文/Cross-Domain Continual Learning for Edge Intelligence in Wireless ISAC Networks.md",
-    "02vault/备选讲组会论文/ISAC_V2X_SNN_DRL_%E8%AE%BA%E6%96%87%E7%B2%BE%E8%AF%BB%E7%AC%94%E8%AE%B0.md",
-    "02vault/备选讲组会论文/Energy-Efficient and Intelligent ISAC in V2X Networks With Spiking Neural Networks-Driven DRL.md",
-    "Radar-assisted predictive beamforming for vehicular links.md",
-    "LIF 神经元与替代梯度.md",
-    "OneNote/研一学习链接/波束成形.md",
-    "02vault/备选讲组会论文/DDRL- A Dual-Phase Deep Reinforcement Learning Approach for UAV-Assisted Content Delivery Across Multiple Base Stations.md",
-    "03fulltext/备选讲组会论文/7MZRDAU9.md",
-    "03fulltext/备选讲组会论文/5Q3UZTCC.md",
-    "模板/信息与通信工程论文精读模板.md",
-    "模板/知识库模板/论文精读模板.md",
-    "02vault/_index/研究主题索引.md",
-    "模板/知识库模板/xwc精读模板.md",
     "02vault/备选讲组会论文",
     "03fulltext/备选讲组会论文",
     "论文图片附件/Pasted image 20261021145738.png",
@@ -289,7 +290,6 @@
     "论文图片附件/云智实习 image 7.png",
     "论文图片附件/云智实习 image 6.png",
     "论文图片附件/云智实习 image 5.png",
-    "论文图片附件/云智实习 image 4.png",
     "论文图片附件/第六章+目标距离的测量(wuwei).pdf",
     "论文图片附件/第五章+雷达的作用距离(wuwei).pdf",
     "论文图片附件/第三章+雷达接收机(wuwei).pdf",
