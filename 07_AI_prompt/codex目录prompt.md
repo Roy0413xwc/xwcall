@@ -7,8 +7,9 @@
 
 - `F:\XWCos\obisidian\xwcall\xwcall\02vault\`：精读笔记
 - `F:\XWCos\obisidian\xwcall\xwcall\03fulltext\`：全文 Markdown 归档
-- `F:\XWCos\obisidian\xwcall\xwcall\01knowledge\`：知识索引和日志
+- `F:\XWCos\obisidian\xwcall\xwcall\01knowledge\`：背景知识索引
 - `F:\XWCos\obisidian\xwcall\xwcall\模板\`：模板
+- F:\XWCos\obisidian\xwcall\xwcall\00_Inbox\log.md是修改记录
 
 这些 Markdown 文件里的 `zotero://select/...` 或 Zotero Key 链接，只是指向 Zotero 条目的引用，不会把文件重新复制进 Zotero。
 
