@@ -40,7 +40,11 @@
       "environmentVariables": "",
       "environmentHash": "",
       "selectedModels": [],
-      "sessionEnvironmentHash": ""
+      "sessionEnvironmentHash": "",
+      "installationMethodsByHost": {
+        "device-2bd7bc4b36ffa327a3e319427d144ed7b14940647a412d49fecf4bf2862900d5": "native-windows"
+      },
+      "wslDistroOverridesByHost": {}
     },
     "codex": {
       "enabled": true,
@@ -320,9 +324,18 @@
       "visibleModels": [],
       "modelAliases": {},
       "preferredReasoningByModel": {},
-      "selectedModels": []
+      "selectedModels": [],
+      "installationMethodsByHost": {
+        "device-2bd7bc4b36ffa327a3e319427d144ed7b14940647a412d49fecf4bf2862900d5": "native-windows"
+      },
+      "wslDistroOverridesByHost": {}
     },
     "grok": {
+      "installationMethodsByHost": {
+        "device-2bd7bc4b36ffa327a3e319427d144ed7b14940647a412d49fecf4bf2862900d5": "native-windows"
+      },
+      "wslDistroOverridesByHost": {},
+      "sessionEnvironmentHash": "",
       "cliPath": "",
       "cliPathsByHost": {},
       "enabled": false,
@@ -343,9 +356,17 @@
       "preferredThinkingByModel": {},
       "thinkingOptionsByModel": {},
       "visibleModels": [],
-      "selectedModels": []
+      "selectedModels": [],
+      "installationMethodsByHost": {
+        "device-2bd7bc4b36ffa327a3e319427d144ed7b14940647a412d49fecf4bf2862900d5": "native-windows"
+      },
+      "wslDistroOverridesByHost": {}
     },
     "pi": {
+      "installationMethodsByHost": {
+        "device-2bd7bc4b36ffa327a3e319427d144ed7b14940647a412d49fecf4bf2862900d5": "native-windows"
+      },
+      "wslDistroOverridesByHost": {},
       "cliPath": "",
       "cliPathsByHost": {},
       "enabled": false,
