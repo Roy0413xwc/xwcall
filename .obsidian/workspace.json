@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Research_Ideas/开题世界模型isac/世界模型方向仿真.md",
+                "file": "03_Research_Ideas/gpt先写报告rsu/注意！先写报告和方案，完全写好了再去测试代码.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "世界模型方向仿真"
-            }
-          },
-          {
-            "id": "fb5901a31c4328db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_Research_Ideas/开题世界模型isac/仿真任务表.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "仿真任务表"
+              "title": "注意！先写报告和方案，完全写好了再去测试代码"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,30 +91,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ef7ae125f28f4e1e",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "02vault/备选讲组会论文/UAV-Based Jamming Detection for Large Language Model-Enabled Wireless Network还没精读.md"
-              },
-              "icon": "lucide-info",
-              "title": "笔记属性"
-            }
-          },
-          {
             "id": "6bb6f0213dee633d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_Research_Ideas/开题世界模型isac/仿真任务表.md",
+                "file": "03_Research_Ideas/gpt先写报告rsu/注意！先写报告和方案，完全写好了再去测试代码.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "大纲"
+            }
+          },
+          {
+            "id": "ef7ae125f28f4e1e",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "03_Research_Ideas/gpt先写报告rsu/注意！先写报告和方案，完全写好了再去测试代码.md"
+              },
+              "icon": "lucide-info",
+              "title": "笔记属性"
             }
           },
           {
@@ -240,8 +225,7 @@
               "title": "Claudian"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -263,24 +247,28 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "fb5901a31c4328db",
+  "active": "9a4fa06be9c64322",
   "lastOpenFiles": [
-    "Pasted image 20261105173403.png",
-    "03_Research_Ideas/开题世界模型isac/世界模型isac确定选题.md",
-    "03_Research_Ideas/开题世界模型isac/世界模型方向仿真讨论.md",
-    "03_Research_Ideas/开题世界模型isac/仿真任务表.md",
+    "03_Research_Ideas/gpt先写报告rsu/开题11月6.md",
+    "03_Research_Ideas/gpt先写报告rsu/注意！先写报告和方案，完全写好了再去测试代码.md",
+    "02vault/信道估计/Diagonally Reconstructed Channel Estimation for MIMO-AFDM.md",
+    "03_Research_Ideas/开题世界模型isac仿真/仿真任务表.md",
+    "03_Research_Ideas/gpt先写报告rsu",
+    "论文图片附件/Pasted image 20261105173403.png",
+    "03_Research_Ideas/开题世界模型isac仿真/世界模型isac确定选题.md",
+    "03_Research_Ideas/开题世界模型isac仿真/世界模型方向仿真讨论.md",
     "03_Research_Ideas/开题世界模型isac/未命名.canvas",
-    "Pasted image 20261105152334.png",
-    "Pasted image 20261105152324.png",
-    "Pasted image 20261105152236.png",
-    "Pasted image 20261105152158.png",
-    "Pasted image 20261105152028.png",
+    "论文图片附件/Pasted image 20261105152334.png",
+    "论文图片附件/Pasted image 20261105152324.png",
+    "论文图片附件/Pasted image 20261105152236.png",
+    "论文图片附件/Pasted image 20261105152158.png",
+    "论文图片附件/Pasted image 20261105152028.png",
     "Pasted image 20261105152002.png",
     "03_Research_Ideas/开题多RSU协同车联网/仿真计划七阶段.md",
     "03_Research_Ideas/开题多RSU协同车联网/方案5_交叉口多RSU协同ISAC与双切换.md",
-    "Pasted image 20261103113848.png",
-    "03_Research_Ideas/开题世界模型isac",
-    "Pasted image 20261103100525.png",
+    "论文图片附件/Pasted image 20261103113848.png",
+    "03_Research_Ideas/开题世界模型isac仿真",
+    "论文图片附件/Pasted image 20261103100525.png",
     "03_Research_Ideas/开题多RSU协同车联网",
     "03_Research_Ideas/开题车联网/方案3_V2X自报状态辅助的异步双基地感知.md",
     "03_Research_Ideas/开题车联网/ISAC物理层安全创新课题调研_车联网方向.md",
@@ -302,16 +290,12 @@
     "07_AI_prompt/开题论文方向，直接和ai讨论.md",
     "07_AI_prompt/开题报告学校模板.md",
     "05_Thesis/ISAC-知识图谱.md",
-    "05_Thesis/ISAC-已读论文结构化提取.md",
-    "03_Research_Ideas/组会备选10.31/gpt推荐ai+isac方向讲解论文.md",
     "Pasted image 20261022224039.png",
-    "论文图片附件/Pasted image 20261022171132.png",
     "02vault/备选讲组会论文",
     "03fulltext/备选讲组会论文",
     "03_Research_Ideas/开题报告初稿10.24",
     "03_Research_Ideas/组会备选10.31",
     "论文图片附件/第六章+目标距离的测量(wuwei).pdf",
-    "论文图片附件/第五章+雷达的作用距离(wuwei).pdf",
     "思维导图？.canvas"
   ]
 }
