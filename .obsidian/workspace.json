@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "2caf3364596889ce",
+        "id": "ad06a4f0ec1ccdd6",
         "type": "tabs",
         "children": [
           {
-            "id": "9a4fa06be9c64322",
+            "id": "3a5d4104f240aeb5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Research_Ideas/gpt先写报告rsu/第九版修改过程-原版是第八版.md",
+                "file": "01knowledge/04车联网/车联网.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第九版修改过程-原版是第八版"
-            }
-          },
-          {
-            "id": "1f4bbf52cf376427",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_Research_Ideas/gpt先写报告rsu/yuhong.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "yuhong"
+              "title": "车联网"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:文献图谱",
+                "query": "[\"title\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -90,12 +75,23 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "dfc253ee911f7be4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 327.8999938964844
+    "width": 376.5,
+    "collapsed": true
   },
   "right": {
     "id": "b576cc4288effc9a",
@@ -111,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_Research_Ideas/gpt先写报告rsu/yuhong.md",
+                "file": "01knowledge/04车联网/车联网.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -126,20 +122,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03_Research_Ideas/gpt先写报告rsu/注意！先写报告和方案，完全写好了再去测试代码.md"
+                "file": "01knowledge/04车联网/车联网.md"
               },
               "icon": "lucide-info",
               "title": "笔记属性"
-            }
-          },
-          {
-            "id": "dfc253ee911f7be4",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
             }
           },
           {
@@ -161,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Research_Ideas/最想做GPT推荐开题isac+ai.md",
+                "file": "01knowledge/04车联网/车联网.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01knowledge/03AI理论/世界模型.md",
+                "file": "01knowledge/04车联网/车联网.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -216,35 +202,14 @@
               "icon": "lucide-archive",
               "title": "添加笔记属性"
             }
-          },
-          {
-            "id": "0251fe4bc68a7aff",
-            "type": "leaf",
-            "state": {
-              "type": "claudian-view",
-              "state": {
-                "tabWorkspace": {
-                  "version": 1,
-                  "openTabs": [
-                    {
-                      "tabId": "tab-1791860092309-pclhmzc",
-                      "conversationId": null,
-                      "draftModel": "openai-codex/qwen3.8-flash",
-                      "providerId": "codex"
-                    }
-                  ],
-                  "activeTabId": "tab-1791860092309-pclhmzc"
-                }
-              },
-              "icon": "bot",
-              "title": "Claudian"
-            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -262,55 +227,55 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "1f4bbf52cf376427",
+  "active": "3a5d4104f240aeb5",
   "lastOpenFiles": [
-    "03_Research_Ideas/gpt先写报告rsu/~WRL2238.tmp",
-    "03_Research_Ideas/gpt先写报告rsu/~WRD0005.tmp",
-    "03_Research_Ideas/gpt先写报告rsu/~WRL0003.tmp",
-    "03_Research_Ideas/gpt先写报告rsu/~WRD0002.tmp",
-    "03_Research_Ideas/gpt先写报告rsu/~$报告第十二版_两项研究主线与格式规范版.docx",
-    "03_Research_Ideas/gpt先写报告rsu/开题报告第十二版_修改说明与检查结果.md",
-    "03_Research_Ideas/gpt先写报告rsu/mso4755.tmp",
-    "03_Research_Ideas/gpt先写报告rsu/mso33FB.tmp",
-    "03_Research_Ideas/gpt先写报告rsu/开题报告第十二版_两项研究主线与格式规范版.pdf",
-    "03_Research_Ideas/gpt先写报告rsu/msoB59E.tmp",
-    "03_Research_Ideas/gpt先写报告rsu/msoA244.tmp",
-    "03_Research_Ideas/gpt先写报告rsu/msoB648.tmp",
-    "03_Research_Ideas/gpt先写报告rsu/开题报告第十一版_修改说明与保留检查.md",
-    "03_Research_Ideas/gpt先写报告rsu/第九版修改过程-原版是第八版.md",
-    "Pasted image 20261108015641.png",
-    "Pasted image 20261108014057.png",
-    "03_Research_Ideas/gpt先写报告rsu/yuhong.md",
-    "论文图片附件/Pasted image 20261107234141.png",
-    "论文图片附件/Pasted image 20261107233911.png",
-    "论文图片附件/Pasted image 20261107233901.png",
-    "论文图片附件/Pasted image 20261107233555.png",
-    "03_Research_Ideas/gpt先写报告rsu/开题报告第八版_修改说明.md",
-    "论文图片附件/7950b6c9971f8cca74ab377eeb67510b.png",
-    "03_Research_Ideas/gpt先写报告rsu/开题报告第五版_两项研究内容.md",
-    "03_Research_Ideas/gpt先写报告rsu/开题报告第四版_修改说明.md",
-    "03_Research_Ideas/gpt先写报告rsu/开题报告第三版续写完善.md",
-    "03_Research_Ideas/gpt先写报告rsu/第五版配图/fig5_timescales.png",
-    "03_Research_Ideas/gpt先写报告rsu/第五版配图/fig4_overall.png",
-    "03_Research_Ideas/gpt先写报告rsu/第五版配图/fig3_research2.png",
-    "03_Research_Ideas/gpt先写报告rsu/开题报告第四版_两项研究内容.md",
-    "03_Research_Ideas/gpt先写报告rsu/第三版原稿备份_20261107/开题报告第三版续写完善.md",
-    "03_Research_Ideas/gpt先写报告rsu/开题报告第二版下午六点半.md",
-    "03_Research_Ideas/gpt先写报告rsu/开题11月6第一版下午三点.md",
+    "Pasted image 20261113180109.png",
+    "Pasted image 20261113174524.png",
+    "Pasted image 20261113170708.png",
+    "Pasted image 20261113170618.png",
+    "Pasted image 20261113164407.png",
+    "Pasted image 20261113164223.png",
+    "Pasted image 20261113162815.png",
+    "Pasted image 20261113162559.png",
+    "Pasted image 20261113162111.png",
+    "Pasted image 20261113162003.png",
+    "Pasted image 20261113161336.png",
+    "01knowledge/04车联网/车联网.md",
+    "RSU.md",
+    "EKF.md",
+    "02vault/备选讲组会论文/UAV-Based_Jamming_Detection_for_LLM-Enabled_Wireless_Networks_论文精读笔记.md",
+    "03_Research_Ideas/gpt先写报告rsu/未命名.md",
+    "˙ψ(i,j)m,Lx [n.md",
+    "联合源信道编码（JSCC）.md",
+    "03_Research_Ideas/gpt先写报告rsu/25120213-熊文超-学硕.pdf",
+    "01knowledge/01数学理论/SCA与SDR优化方法基础.md",
+    "01knowledge/04车联网",
+    "01knowledge/02UAV/UAV动力学建模.md",
+    "01knowledge/02UAV/UAV-ISAC 综合判断.md",
+    "01knowledge/02UAV/UAV-ISAC 轨迹波束资源联合设计.md",
+    "01knowledge/02UAV/UAV 机动自由度与 ISAC 权衡边界.md",
+    "01knowledge/03AI理论/世界模型.md",
     "03_Research_Ideas/gpt先写报告rsu/注意！先写报告和方案，完全写好了再去测试代码.md",
-    "02vault/信道估计/Diagonally Reconstructed Channel Estimation for MIMO-AFDM.md",
-    "03_Research_Ideas/开题世界模型isac仿真/仿真任务表.md",
-    "03_Research_Ideas/开题世界模型isac仿真/世界模型isac确定选题.md",
-    "03_Research_Ideas/开题世界模型isac仿真/世界模型方向仿真讨论.md",
+    "03_Research_Ideas/gpt先写报告rsu/之前版本/开题报告第二版下午六点半.md",
+    "03_Research_Ideas/gpt先写报告rsu/之前版本/开题报告第三版续写完善.md",
+    "03_Research_Ideas/gpt先写报告rsu/之前版本/开题11月6第一版下午三点.md",
+    "03_Research_Ideas/gpt先写报告rsu/之前版本/第三版原稿备份_20261107/开题报告第三版续写完善.md",
+    "03_Research_Ideas/gpt先写报告rsu/之前版本/第三版原稿备份_20261107/开题报告第三版_附件2格式_图文版.docx",
+    "03_Research_Ideas/gpt先写报告rsu/之前版本/第三版原稿备份_20261107",
+    "03_Research_Ideas/gpt先写报告rsu/之前版本/第四版配图",
+    "03_Research_Ideas/gpt先写报告rsu/之前版本/第五版配图",
+    "03_Research_Ideas/gpt先写报告rsu/之前版本/第六版配图",
+    "03_Research_Ideas/gpt先写报告rsu/之前版本/开题报告第九版_解释内容原版高亮.docx-50e4a124-0e8a-4f3e-9093-1b9a99a58679/MinerU_markdown_202611080211277_373250b0.md",
+    "03_Research_Ideas/gpt先写报告rsu/之前版本/开题报告第九版_解释内容原版高亮.docx-50e4a124-0e8a-4f3e-9093-1b9a99a58679/images",
+    "03_Research_Ideas/gpt先写报告rsu/之前版本/开题报告第九版_解释内容原版高亮.docx-50e4a124-0e8a-4f3e-9093-1b9a99a58679/full.md",
+    "03_Research_Ideas/gpt先写报告rsu/之前版本/开题报告第九版_解释内容原版高亮.docx-50e4a124-0e8a-4f3e-9093-1b9a99a58679/layout.json",
+    "03_Research_Ideas/gpt先写报告rsu/之前版本/开题报告第九版_解释内容原版高亮.docx-50e4a124-0e8a-4f3e-9093-1b9a99a58679/fa9ec942-877e-4bb8-bab6-9f8c21faf200_origin.docx",
+    "03_Research_Ideas/gpt先写报告rsu/之前版本/开题报告第四版_两项研究内容.md",
+    "03_Research_Ideas/gpt先写报告rsu/之前版本/开题报告第四版_修改说明.md",
+    "03_Research_Ideas/gpt先写报告rsu/之前版本/开题报告第六版_两项研究内容.md",
+    "03_Research_Ideas/gpt先写报告rsu/之前版本/开题报告第八版_修改说明.md",
+    "03_Research_Ideas/gpt先写报告rsu/之前版本/开题报告第五版_两项研究内容.md",
     "03_Research_Ideas/开题世界模型isac/未命名.canvas",
-    "03_Research_Ideas/开题多RSU协同车联网/仿真计划七阶段.md",
-    "03_Research_Ideas/开题多RSU协同车联网/方案5_交叉口多RSU协同ISAC与双切换.md",
-    "03_Research_Ideas/开题车联网/方案3_V2X自报状态辅助的异步双基地感知.md",
-    "03_Research_Ideas/开题车联网/ISAC物理层安全创新课题调研_车联网方向.md",
-    "03_Research_Ideas/开题车联网/gpt出开题报告长分析.md",
-    "03_Research_Ideas/开题报告11.2/讨论过的开题方向汇总.md",
-    "03_Research_Ideas/开题报告11.2/车联网方向.md",
-    "03_Research_Ideas/开题报告11.2/知乎解析开题报告写法.md",
     "思维导图？.canvas"
   ]
 }

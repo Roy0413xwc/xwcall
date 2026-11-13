@@ -382,7 +382,7 @@
   "settingsProvider": "claude",
   "lastSelectedChatModel": {
     "providerId": "codex",
-    "model": "openai-codex/qwen3.8-flash"
+    "model": "openai-codex/hy4-preview"
   },
   "inlineEditModel": null,
   "savedProviderModel": {
