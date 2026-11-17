@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01knowledge/04车联网/车联网.md",
+                "file": "03_Research_Ideas/gpt先写报告rsu/yuhong.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "车联网"
+              "title": "yuhong"
             }
           }
         ]
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5,
-    "collapsed": true
+    "width": 376.5
   },
   "right": {
     "id": "b576cc4288effc9a",
@@ -107,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01knowledge/04车联网/车联网.md",
+                "file": "03_Research_Ideas/gpt先写报告rsu/yuhong.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -166,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01knowledge/04车联网/车联网.md",
+                "file": "03_Research_Ideas/gpt先写报告rsu/开题修改意见.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -203,13 +202,11 @@
               "title": "添加笔记属性"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 407.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,6 +226,25 @@
   },
   "active": "3a5d4104f240aeb5",
   "lastOpenFiles": [
+    "03_Research_Ideas/gpt先写报告rsu/注意！先写报告和方案，完全写好了再去测试代码.md",
+    "03_Research_Ideas/gpt先写报告rsu/开题修改意见.md",
+    "03_Research_Ideas/gpt先写报告rsu/25120213-熊文超-学硕.pdf",
+    "03_Research_Ideas/开题废稿/开题报告初稿10.24/开题世界模型isac仿真/世界模型isac确定选题.md",
+    "03_Research_Ideas/开题废稿/开题报告初稿10.24/开题世界模型isac仿真/世界模型方向仿真讨论.md",
+    "03_Research_Ideas/开题废稿/开题报告初稿10.24/开题世界模型isac仿真/仿真任务表.md",
+    "03_Research_Ideas/开题废稿/开题报告11.2/知乎解析开题报告写法.md",
+    "03_Research_Ideas/开题废稿/开题报告11.2/讨论过的开题方向汇总.md",
+    "03_Research_Ideas/开题废稿/开题报告初稿10.24/世界模型.md",
+    "03_Research_Ideas/开题废稿/开题报告初稿10.24/知乎找灵感.md",
+    "03_Research_Ideas/开题废稿/开题报告初稿10.24/最想做GPT推荐开题isac+ai.md",
+    "03_Research_Ideas/开题废稿/开题报告初稿10.24/ai开题报告1预测式波束管理与深度强化学习.md",
+    "03_Research_Ideas/开题废稿/开题车联网/ISAC物理层安全创新课题调研_车联网方向.md",
+    "03_Research_Ideas/开题废稿/开题车联网/gpt出开题报告长分析.md",
+    "03_Research_Ideas/开题废稿/开题多RSU协同车联网/方案5_交叉口多RSU协同ISAC与双切换.md",
+    "03_Research_Ideas/开题废稿/开题多RSU协同车联网/仿真计划七阶段.md",
+    "03_Research_Ideas/gpt先写报告rsu/yuhong.md",
+    "01knowledge/04车联网/车联网.md",
+    "Pasted image 20261113180409.png",
     "Pasted image 20261113180109.png",
     "Pasted image 20261113174524.png",
     "Pasted image 20261113170708.png",
@@ -238,43 +254,23 @@
     "Pasted image 20261113162815.png",
     "Pasted image 20261113162559.png",
     "Pasted image 20261113162111.png",
-    "Pasted image 20261113162003.png",
-    "Pasted image 20261113161336.png",
-    "01knowledge/04车联网/车联网.md",
     "RSU.md",
     "EKF.md",
     "02vault/备选讲组会论文/UAV-Based_Jamming_Detection_for_LLM-Enabled_Wireless_Networks_论文精读笔记.md",
-    "03_Research_Ideas/gpt先写报告rsu/未命名.md",
     "˙ψ(i,j)m,Lx [n.md",
     "联合源信道编码（JSCC）.md",
-    "03_Research_Ideas/gpt先写报告rsu/25120213-熊文超-学硕.pdf",
     "01knowledge/01数学理论/SCA与SDR优化方法基础.md",
     "01knowledge/04车联网",
     "01knowledge/02UAV/UAV动力学建模.md",
     "01knowledge/02UAV/UAV-ISAC 综合判断.md",
-    "01knowledge/02UAV/UAV-ISAC 轨迹波束资源联合设计.md",
-    "01knowledge/02UAV/UAV 机动自由度与 ISAC 权衡边界.md",
-    "01knowledge/03AI理论/世界模型.md",
-    "03_Research_Ideas/gpt先写报告rsu/注意！先写报告和方案，完全写好了再去测试代码.md",
-    "03_Research_Ideas/gpt先写报告rsu/之前版本/开题报告第二版下午六点半.md",
-    "03_Research_Ideas/gpt先写报告rsu/之前版本/开题报告第三版续写完善.md",
-    "03_Research_Ideas/gpt先写报告rsu/之前版本/开题11月6第一版下午三点.md",
-    "03_Research_Ideas/gpt先写报告rsu/之前版本/第三版原稿备份_20261107/开题报告第三版续写完善.md",
     "03_Research_Ideas/gpt先写报告rsu/之前版本/第三版原稿备份_20261107/开题报告第三版_附件2格式_图文版.docx",
     "03_Research_Ideas/gpt先写报告rsu/之前版本/第三版原稿备份_20261107",
     "03_Research_Ideas/gpt先写报告rsu/之前版本/第四版配图",
     "03_Research_Ideas/gpt先写报告rsu/之前版本/第五版配图",
     "03_Research_Ideas/gpt先写报告rsu/之前版本/第六版配图",
-    "03_Research_Ideas/gpt先写报告rsu/之前版本/开题报告第九版_解释内容原版高亮.docx-50e4a124-0e8a-4f3e-9093-1b9a99a58679/MinerU_markdown_202611080211277_373250b0.md",
     "03_Research_Ideas/gpt先写报告rsu/之前版本/开题报告第九版_解释内容原版高亮.docx-50e4a124-0e8a-4f3e-9093-1b9a99a58679/images",
-    "03_Research_Ideas/gpt先写报告rsu/之前版本/开题报告第九版_解释内容原版高亮.docx-50e4a124-0e8a-4f3e-9093-1b9a99a58679/full.md",
     "03_Research_Ideas/gpt先写报告rsu/之前版本/开题报告第九版_解释内容原版高亮.docx-50e4a124-0e8a-4f3e-9093-1b9a99a58679/layout.json",
     "03_Research_Ideas/gpt先写报告rsu/之前版本/开题报告第九版_解释内容原版高亮.docx-50e4a124-0e8a-4f3e-9093-1b9a99a58679/fa9ec942-877e-4bb8-bab6-9f8c21faf200_origin.docx",
-    "03_Research_Ideas/gpt先写报告rsu/之前版本/开题报告第四版_两项研究内容.md",
-    "03_Research_Ideas/gpt先写报告rsu/之前版本/开题报告第四版_修改说明.md",
-    "03_Research_Ideas/gpt先写报告rsu/之前版本/开题报告第六版_两项研究内容.md",
-    "03_Research_Ideas/gpt先写报告rsu/之前版本/开题报告第八版_修改说明.md",
-    "03_Research_Ideas/gpt先写报告rsu/之前版本/开题报告第五版_两项研究内容.md",
     "03_Research_Ideas/开题世界模型isac/未命名.canvas",
     "思维导图？.canvas"
   ]
